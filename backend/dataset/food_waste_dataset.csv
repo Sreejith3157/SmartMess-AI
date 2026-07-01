@@ -1,0 +1,1001 @@
+menu_type,breakfast,lunch,dinner,students_present,day_of_week,holiday,rain,exam_day,festival,waste_kg
+Festival,Upma,Lemon Rice,Idiyappam,632,Sunday,Yes,No,No,No,8.34
+Special,Rava Kichadi,Meals,Parotta,521,Tuesday,Yes,No,No,No,9.19
+Special,Rava Kichadi,Curd Rice,Dosa,448,Monday,No,Yes,Yes,No,18.05
+Festival,Pongal,Sambar Rice,Veg Fried Rice,570,Friday,Yes,Yes,Yes,Yes,18.92
+Festival,Rava Kichadi,Lemon Rice,Veg Fried Rice,435,Thursday,No,No,Yes,No,12.97
+Special,Chapathi,Lemon Rice,Poori,356,Saturday,No,Yes,Yes,Yes,18.78
+Festival,Pongal,Veg Biryani,Veg Fried Rice,429,Sunday,Yes,Yes,No,No,8.97
+Festival,Dosa,Lemon Rice,Poori,388,Saturday,No,Yes,No,No,9.48
+Festival,Pongal,Curd Rice,Veg Fried Rice,363,Tuesday,Yes,No,No,Yes,8.17
+Special,Rava Kichadi,Meals,Idiyappam,489,Friday,No,Yes,No,Yes,19.37
+Special,Idli,Curd Rice,Idiyappam,642,Tuesday,No,No,Yes,No,18.56
+Regular,Upma,Veg Biryani,Dosa,419,Sunday,Yes,Yes,Yes,No,11.34
+Festival,Chapathi,Fried Rice,Parotta,362,Friday,No,Yes,No,Yes,14.27
+Regular,Rava Kichadi,Curd Rice,Poori,554,Tuesday,Yes,No,No,Yes,12.48
+Regular,Chapathi,Lemon Rice,Chapathi,464,Wednesday,No,No,Yes,No,12.85
+Regular,Upma,Tomato Rice,Chapathi,531,Friday,Yes,No,Yes,Yes,15.72
+Regular,Rava Kichadi,Fried Rice,Veg Fried Rice,541,Thursday,No,Yes,No,No,11.56
+Regular,Appam,Curd Rice,Idiyappam,639,Sunday,Yes,No,Yes,No,12.41
+Regular,Idli,Curd Rice,Idiyappam,584,Thursday,Yes,Yes,No,Yes,14.23
+Regular,Poori,Lemon Rice,Idiyappam,642,Monday,No,No,No,No,12.81
+Regular,Pongal,Lemon Rice,Dosa,462,Tuesday,Yes,Yes,Yes,No,11.73
+Festival,Rava Kichadi,Lemon Rice,Veg Fried Rice,548,Friday,No,No,Yes,Yes,20.79
+Special,Appam,Curd Rice,Idiyappam,443,Friday,Yes,Yes,No,Yes,14.66
+Regular,Chapathi,Curd Rice,Chapathi,356,Tuesday,No,No,No,Yes,11.79
+Festival,Poori,Tomato Rice,Curd Rice,483,Monday,Yes,No,No,No,7.41
+Festival,Dosa,Fried Rice,Parotta,621,Friday,Yes,No,Yes,Yes,16.97
+Regular,Chapathi,Meals,Poori,472,Thursday,No,No,No,No,10.02
+Special,Upma,Curd Rice,Chapathi,524,Monday,No,Yes,No,Yes,20.79
+Regular,Chapathi,Sambar Rice,Dosa,477,Monday,Yes,No,No,Yes,10.58
+Special,Dosa,Sambar Rice,Idiyappam,572,Monday,Yes,No,No,Yes,14.2
+Regular,Pongal,Sambar Rice,Chapathi,539,Monday,No,Yes,Yes,No,16.68
+Special,Pongal,Sambar Rice,Dosa,421,Monday,No,Yes,Yes,No,17.32
+Special,Pongal,Fried Rice,Dosa,483,Saturday,No,Yes,Yes,No,17.09
+Regular,Chapathi,Lemon Rice,Chapathi,598,Friday,No,Yes,Yes,No,18.77
+Festival,Appam,Tomato Rice,Veg Fried Rice,387,Saturday,No,No,Yes,Yes,16.64
+Festival,Poori,Meals,Chapathi,437,Thursday,Yes,No,No,Yes,11.91
+Festival,Rava Kichadi,Veg Biryani,Chapathi,521,Monday,Yes,Yes,No,No,8.24
+Festival,Upma,Sambar Rice,Idiyappam,444,Tuesday,Yes,No,Yes,No,11.07
+Regular,Upma,Fried Rice,Parotta,462,Friday,No,No,No,No,7.89
+Festival,Upma,Sambar Rice,Dosa,353,Saturday,No,Yes,Yes,Yes,16.8
+Festival,Pongal,Curd Rice,Poori,530,Monday,Yes,Yes,Yes,No,12.92
+Festival,Chapathi,Lemon Rice,Idiyappam,410,Saturday,No,Yes,Yes,Yes,19.98
+Festival,Poori,Fried Rice,Curd Rice,635,Tuesday,Yes,No,Yes,Yes,20.07
+Festival,Poori,Veg Biryani,Veg Fried Rice,550,Friday,No,No,Yes,Yes,19.7
+Festival,Chapathi,Meals,Veg Fried Rice,438,Thursday,No,Yes,Yes,No,14.52
+Regular,Rava Kichadi,Fried Rice,Poori,351,Wednesday,Yes,Yes,No,Yes,10.04
+Special,Upma,Meals,Curd Rice,445,Wednesday,No,No,Yes,No,15.07
+Special,Chapathi,Tomato Rice,Parotta,612,Saturday,Yes,Yes,Yes,No,16.1
+Regular,Poori,Meals,Parotta,510,Sunday,No,No,No,Yes,13.79
+Special,Upma,Fried Rice,Poori,569,Friday,No,Yes,No,No,15.68
+Festival,Idli,Curd Rice,Idiyappam,359,Monday,Yes,Yes,No,No,6.94
+Regular,Rava Kichadi,Lemon Rice,Dosa,537,Wednesday,No,Yes,Yes,No,16.48
+Regular,Appam,Fried Rice,Parotta,536,Wednesday,No,Yes,No,Yes,18.87
+Festival,Idli,Meals,Parotta,544,Monday,No,No,Yes,No,16.26
+Special,Pongal,Meals,Idiyappam,610,Sunday,No,No,No,No,14.43
+Regular,Upma,Sambar Rice,Chapathi,426,Wednesday,Yes,No,No,Yes,9.05
+Festival,Poori,Sambar Rice,Veg Fried Rice,398,Wednesday,No,Yes,Yes,Yes,19.96
+Regular,Idli,Veg Biryani,Chapathi,594,Wednesday,No,No,Yes,Yes,19.7
+Regular,Upma,Lemon Rice,Curd Rice,509,Tuesday,No,No,No,No,9.72
+Special,Upma,Tomato Rice,Idiyappam,646,Wednesday,No,No,No,Yes,18.81
+Special,Idli,Tomato Rice,Idiyappam,556,Wednesday,No,Yes,Yes,Yes,23.88
+Festival,Upma,Veg Biryani,Parotta,396,Wednesday,Yes,No,Yes,No,7.77
+Festival,Pongal,Fried Rice,Idiyappam,464,Monday,No,No,Yes,No,14.17
+Regular,Poori,Lemon Rice,Chapathi,431,Thursday,Yes,No,No,No,4.84
+Regular,Rava Kichadi,Veg Biryani,Veg Fried Rice,440,Monday,No,Yes,No,Yes,17.13
+Special,Idli,Lemon Rice,Parotta,641,Sunday,No,Yes,No,Yes,23.06
+Special,Pongal,Sambar Rice,Idiyappam,460,Wednesday,Yes,No,No,Yes,12.45
+Regular,Poori,Lemon Rice,Chapathi,512,Monday,Yes,No,No,No,8.52
+Regular,Pongal,Veg Biryani,Curd Rice,392,Sunday,Yes,Yes,Yes,Yes,15.63
+Special,Dosa,Lemon Rice,Veg Fried Rice,596,Sunday,Yes,No,No,Yes,17.12
+Regular,Upma,Meals,Idiyappam,455,Monday,No,No,Yes,Yes,17.85
+Regular,Chapathi,Fried Rice,Parotta,395,Tuesday,Yes,Yes,Yes,No,10.48
+Special,Appam,Veg Biryani,Poori,378,Monday,No,No,Yes,Yes,17.25
+Festival,Poori,Sambar Rice,Chapathi,352,Wednesday,No,No,Yes,No,11.68
+Regular,Appam,Sambar Rice,Poori,520,Sunday,Yes,Yes,Yes,Yes,17.23
+Festival,Dosa,Curd Rice,Veg Fried Rice,549,Thursday,Yes,No,Yes,Yes,17.56
+Regular,Dosa,Meals,Poori,565,Tuesday,No,Yes,No,No,14.12
+Special,Rava Kichadi,Fried Rice,Parotta,629,Sunday,Yes,Yes,No,Yes,17.42
+Special,Dosa,Fried Rice,Dosa,637,Friday,Yes,Yes,Yes,No,16.24
+Regular,Dosa,Lemon Rice,Poori,502,Wednesday,No,Yes,Yes,Yes,20.94
+Special,Appam,Lemon Rice,Idiyappam,459,Tuesday,Yes,Yes,No,Yes,16.39
+Regular,Rava Kichadi,Lemon Rice,Veg Fried Rice,557,Wednesday,No,Yes,No,No,14.55
+Festival,Idli,Tomato Rice,Veg Fried Rice,404,Saturday,Yes,No,Yes,Yes,14.25
+Regular,Appam,Tomato Rice,Chapathi,446,Saturday,Yes,Yes,Yes,Yes,18.05
+Regular,Upma,Sambar Rice,Parotta,377,Wednesday,No,No,Yes,No,11.6
+Special,Idli,Curd Rice,Dosa,433,Wednesday,Yes,No,Yes,Yes,16.54
+Festival,Chapathi,Curd Rice,Parotta,547,Friday,Yes,Yes,No,Yes,13.91
+Special,Chapathi,Sambar Rice,Dosa,451,Tuesday,No,Yes,Yes,Yes,22.46
+Regular,Appam,Meals,Poori,631,Monday,No,Yes,No,Yes,18.92
+Regular,Dosa,Fried Rice,Chapathi,378,Thursday,Yes,Yes,Yes,Yes,14.72
+Festival,Appam,Meals,Veg Fried Rice,528,Saturday,No,No,Yes,No,14.76
+Festival,Idli,Curd Rice,Veg Fried Rice,531,Tuesday,Yes,No,Yes,No,10.55
+Regular,Rava Kichadi,Sambar Rice,Idiyappam,388,Wednesday,Yes,Yes,No,Yes,11.58
+Regular,Idli,Meals,Idiyappam,638,Sunday,No,Yes,No,Yes,19.9
+Regular,Poori,Sambar Rice,Curd Rice,557,Tuesday,Yes,Yes,No,No,9.34
+Regular,Chapathi,Fried Rice,Curd Rice,573,Monday,Yes,No,No,Yes,13.69
+Regular,Pongal,Meals,Idiyappam,489,Friday,No,No,Yes,Yes,19.99
+Regular,Upma,Curd Rice,Dosa,613,Wednesday,No,No,Yes,No,15.68
+Regular,Idli,Curd Rice,Parotta,554,Friday,Yes,No,Yes,Yes,15.86
+Festival,Appam,Lemon Rice,Veg Fried Rice,481,Sunday,No,Yes,Yes,Yes,20.27
+Regular,Poori,Veg Biryani,Curd Rice,426,Tuesday,Yes,No,Yes,Yes,13.11
+Special,Upma,Meals,Poori,623,Sunday,No,No,No,No,13.37
+Festival,Pongal,Curd Rice,Chapathi,442,Tuesday,No,No,Yes,Yes,17.34
+Festival,Rava Kichadi,Tomato Rice,Chapathi,561,Saturday,No,Yes,No,Yes,18.36
+Festival,Dosa,Veg Biryani,Poori,649,Friday,No,Yes,No,Yes,19.91
+Regular,Poori,Tomato Rice,Chapathi,412,Saturday,No,No,No,No,7.78
+Special,Pongal,Tomato Rice,Parotta,646,Friday,No,Yes,No,No,18.32
+Regular,Appam,Lemon Rice,Poori,414,Friday,Yes,No,Yes,No,8.91
+Festival,Dosa,Sambar Rice,Veg Fried Rice,464,Saturday,Yes,No,Yes,Yes,14.54
+Festival,Pongal,Veg Biryani,Curd Rice,587,Sunday,Yes,Yes,No,No,10.92
+Special,Poori,Fried Rice,Poori,394,Friday,Yes,No,Yes,Yes,16.2
+Special,Chapathi,Veg Biryani,Curd Rice,611,Tuesday,No,Yes,Yes,Yes,24.5
+Festival,Dosa,Sambar Rice,Veg Fried Rice,530,Friday,No,Yes,Yes,No,17.18
+Festival,Dosa,Meals,Chapathi,432,Tuesday,No,No,Yes,Yes,18.93
+Special,Idli,Meals,Veg Fried Rice,531,Thursday,Yes,No,Yes,No,14.21
+Festival,Rava Kichadi,Lemon Rice,Poori,406,Monday,Yes,Yes,Yes,No,11.49
+Regular,Pongal,Curd Rice,Chapathi,454,Wednesday,No,No,Yes,Yes,18.77
+Regular,Dosa,Tomato Rice,Parotta,629,Thursday,Yes,Yes,No,Yes,16.7
+Special,Appam,Meals,Curd Rice,558,Monday,No,No,No,No,12.26
+Regular,Poori,Fried Rice,Veg Fried Rice,370,Saturday,No,Yes,No,Yes,13.04
+Festival,Rava Kichadi,Veg Biryani,Dosa,511,Sunday,No,No,Yes,Yes,18.29
+Regular,Idli,Sambar Rice,Chapathi,556,Thursday,No,Yes,Yes,No,16.83
+Regular,Pongal,Veg Biryani,Parotta,641,Saturday,No,No,No,Yes,19.15
+Regular,Chapathi,Lemon Rice,Dosa,470,Thursday,Yes,No,No,No,7.34
+Regular,Pongal,Curd Rice,Veg Fried Rice,518,Thursday,No,Yes,No,No,12.7
+Festival,Pongal,Veg Biryani,Dosa,553,Thursday,No,No,No,Yes,14.95
+Special,Chapathi,Meals,Veg Fried Rice,631,Tuesday,No,No,Yes,No,18.19
+Festival,Rava Kichadi,Veg Biryani,Dosa,608,Tuesday,Yes,No,Yes,Yes,17.89
+Regular,Rava Kichadi,Meals,Poori,453,Tuesday,No,No,No,No,9.52
+Regular,Poori,Tomato Rice,Dosa,537,Saturday,Yes,Yes,Yes,No,12.28
+Festival,Idli,Lemon Rice,Idiyappam,457,Monday,No,No,No,Yes,12.95
+Festival,Rava Kichadi,Veg Biryani,Chapathi,368,Thursday,Yes,Yes,No,No,5.53
+Regular,Chapathi,Fried Rice,Chapathi,570,Friday,Yes,Yes,No,No,10.19
+Special,Poori,Tomato Rice,Parotta,404,Sunday,No,Yes,No,Yes,18.38
+Festival,Idli,Veg Biryani,Curd Rice,395,Friday,No,No,Yes,Yes,15.63
+Special,Chapathi,Curd Rice,Poori,518,Friday,Yes,No,No,No,8.22
+Regular,Poori,Meals,Veg Fried Rice,458,Sunday,No,No,No,No,10.63
+Festival,Poori,Lemon Rice,Poori,480,Monday,Yes,Yes,Yes,No,13.71
+Regular,Upma,Meals,Poori,448,Thursday,No,Yes,Yes,Yes,19.64
+Special,Dosa,Tomato Rice,Curd Rice,454,Thursday,No,Yes,No,No,13.59
+Festival,Dosa,Fried Rice,Chapathi,451,Saturday,Yes,No,No,Yes,10.91
+Regular,Dosa,Curd Rice,Idiyappam,635,Monday,Yes,No,Yes,No,12.7
+Regular,Chapathi,Sambar Rice,Parotta,621,Thursday,Yes,No,No,No,9.97
+Special,Rava Kichadi,Curd Rice,Poori,408,Sunday,No,No,No,No,9.25
+Special,Appam,Fried Rice,Parotta,471,Thursday,No,No,Yes,No,14.18
+Festival,Pongal,Tomato Rice,Poori,439,Monday,No,No,No,No,9.74
+Regular,Idli,Curd Rice,Veg Fried Rice,438,Monday,Yes,Yes,No,Yes,11.34
+Special,Pongal,Meals,Poori,396,Friday,Yes,No,No,Yes,11.95
+Festival,Chapathi,Veg Biryani,Parotta,542,Wednesday,Yes,Yes,Yes,No,13.31
+Festival,Appam,Curd Rice,Chapathi,636,Tuesday,No,No,Yes,Yes,20.84
+Regular,Pongal,Fried Rice,Curd Rice,402,Tuesday,Yes,No,Yes,No,7.59
+Festival,Idli,Fried Rice,Idiyappam,498,Sunday,Yes,Yes,No,Yes,12.78
+Festival,Pongal,Meals,Poori,628,Sunday,Yes,Yes,Yes,No,15.2
+Festival,Rava Kichadi,Lemon Rice,Parotta,572,Tuesday,Yes,No,Yes,No,11.89
+Festival,Rava Kichadi,Lemon Rice,Chapathi,478,Sunday,No,No,Yes,No,13.76
+Festival,Upma,Tomato Rice,Idiyappam,378,Monday,Yes,No,No,Yes,8.15
+Festival,Chapathi,Fried Rice,Parotta,488,Sunday,No,Yes,No,Yes,17.44
+Special,Chapathi,Meals,Veg Fried Rice,608,Tuesday,No,No,Yes,Yes,23.4
+Special,Rava Kichadi,Lemon Rice,Curd Rice,488,Wednesday,No,No,Yes,No,16.18
+Festival,Appam,Tomato Rice,Veg Fried Rice,388,Saturday,Yes,Yes,Yes,No,9.33
+Regular,Appam,Lemon Rice,Parotta,611,Tuesday,Yes,Yes,No,Yes,14.74
+Special,Poori,Curd Rice,Poori,402,Saturday,No,No,Yes,No,14.37
+Special,Appam,Fried Rice,Dosa,512,Tuesday,No,Yes,Yes,No,17.78
+Special,Upma,Veg Biryani,Dosa,425,Monday,Yes,Yes,No,Yes,15.47
+Festival,Appam,Meals,Dosa,622,Thursday,Yes,Yes,No,Yes,16.94
+Regular,Chapathi,Sambar Rice,Chapathi,454,Tuesday,Yes,Yes,Yes,Yes,16.88
+Special,Rava Kichadi,Veg Biryani,Parotta,558,Saturday,Yes,No,No,No,9.02
+Regular,Poori,Meals,Poori,566,Friday,Yes,Yes,No,No,11.44
+Festival,Chapathi,Curd Rice,Chapathi,519,Friday,No,No,No,Yes,16.83
+Regular,Idli,Tomato Rice,Poori,480,Wednesday,No,No,Yes,No,13.08
+Regular,Poori,Tomato Rice,Idiyappam,571,Monday,No,Yes,Yes,No,18.55
+Regular,Dosa,Fried Rice,Idiyappam,479,Saturday,Yes,No,No,Yes,10.99
+Festival,Appam,Sambar Rice,Idiyappam,408,Wednesday,No,Yes,Yes,No,15.07
+Festival,Idli,Sambar Rice,Veg Fried Rice,489,Thursday,Yes,Yes,Yes,Yes,19.18
+Regular,Appam,Curd Rice,Parotta,511,Wednesday,No,No,Yes,No,15.45
+Special,Poori,Lemon Rice,Chapathi,432,Sunday,No,Yes,Yes,No,17.07
+Regular,Dosa,Curd Rice,Idiyappam,629,Sunday,Yes,Yes,No,Yes,16.83
+Regular,Upma,Sambar Rice,Curd Rice,366,Wednesday,Yes,No,No,No,5.41
+Regular,Rava Kichadi,Fried Rice,Veg Fried Rice,618,Monday,No,No,Yes,Yes,21.75
+Festival,Appam,Sambar Rice,Curd Rice,447,Tuesday,Yes,Yes,No,Yes,13.55
+Regular,Appam,Lemon Rice,Veg Fried Rice,650,Thursday,No,No,No,No,11.91
+Special,Upma,Fried Rice,Curd Rice,509,Thursday,Yes,Yes,No,No,10.52
+Special,Appam,Curd Rice,Dosa,618,Friday,No,No,No,Yes,18.71
+Festival,Appam,Lemon Rice,Curd Rice,418,Thursday,No,Yes,No,Yes,15.61
+Festival,Idli,Fried Rice,Idiyappam,567,Wednesday,No,Yes,Yes,Yes,22.23
+Special,Pongal,Meals,Idiyappam,472,Wednesday,No,No,No,Yes,15.39
+Regular,Poori,Sambar Rice,Idiyappam,544,Thursday,Yes,Yes,Yes,No,13.15
+Festival,Appam,Fried Rice,Chapathi,379,Thursday,Yes,No,No,Yes,10.09
+Special,Idli,Fried Rice,Chapathi,386,Saturday,No,No,No,Yes,15.55
+Regular,Chapathi,Curd Rice,Chapathi,506,Wednesday,Yes,Yes,No,No,8.28
+Festival,Upma,Meals,Curd Rice,566,Monday,Yes,Yes,Yes,Yes,20.06
+Regular,Pongal,Tomato Rice,Parotta,582,Monday,No,Yes,Yes,No,17.39
+Regular,Poori,Curd Rice,Chapathi,559,Monday,Yes,Yes,No,Yes,16.13
+Festival,Rava Kichadi,Sambar Rice,Curd Rice,443,Tuesday,Yes,No,Yes,No,9.57
+Special,Pongal,Curd Rice,Curd Rice,618,Thursday,Yes,No,Yes,No,16.16
+Special,Poori,Veg Biryani,Veg Fried Rice,649,Saturday,No,No,No,No,16.11
+Regular,Poori,Tomato Rice,Curd Rice,505,Sunday,No,No,Yes,No,13.06
+Regular,Chapathi,Lemon Rice,Veg Fried Rice,482,Wednesday,Yes,No,Yes,Yes,16.58
+Regular,Poori,Meals,Chapathi,483,Sunday,No,Yes,No,Yes,16.61
+Special,Dosa,Lemon Rice,Parotta,643,Tuesday,No,No,No,No,16.01
+Special,Appam,Fried Rice,Idiyappam,573,Friday,No,Yes,Yes,No,19.43
+Regular,Upma,Lemon Rice,Veg Fried Rice,374,Monday,Yes,Yes,Yes,No,9.2
+Special,Dosa,Curd Rice,Veg Fried Rice,489,Wednesday,No,Yes,No,No,13.62
+Festival,Chapathi,Curd Rice,Dosa,356,Friday,Yes,No,Yes,No,9.2
+Festival,Appam,Lemon Rice,Poori,600,Monday,No,Yes,No,Yes,18.91
+Festival,Pongal,Veg Biryani,Idiyappam,434,Monday,Yes,Yes,Yes,No,11.64
+Regular,Rava Kichadi,Sambar Rice,Idiyappam,515,Thursday,Yes,Yes,Yes,No,13.54
+Regular,Pongal,Veg Biryani,Parotta,476,Saturday,No,Yes,No,No,10.72
+Regular,Pongal,Veg Biryani,Parotta,425,Monday,Yes,No,Yes,No,9.63
+Festival,Chapathi,Sambar Rice,Curd Rice,491,Thursday,Yes,Yes,No,No,9.37
+Special,Rava Kichadi,Fried Rice,Curd Rice,592,Wednesday,No,No,No,Yes,17.78
+Festival,Rava Kichadi,Veg Biryani,Parotta,522,Wednesday,Yes,Yes,No,No,10.23
+Festival,Poori,Meals,Dosa,647,Monday,Yes,No,Yes,No,12.9
+Regular,Poori,Sambar Rice,Poori,515,Sunday,No,Yes,No,Yes,16.7
+Festival,Chapathi,Veg Biryani,Veg Fried Rice,408,Saturday,No,No,No,No,8.87
+Special,Chapathi,Sambar Rice,Dosa,547,Tuesday,Yes,No,No,Yes,13.97
+Special,Rava Kichadi,Tomato Rice,Chapathi,592,Thursday,No,No,Yes,Yes,21.54
+Regular,Dosa,Fried Rice,Chapathi,383,Monday,Yes,No,Yes,Yes,12.61
+Special,Pongal,Lemon Rice,Poori,387,Monday,Yes,No,No,Yes,12.38
+Regular,Dosa,Fried Rice,Parotta,531,Sunday,Yes,Yes,Yes,No,14.44
+Regular,Chapathi,Sambar Rice,Chapathi,375,Friday,Yes,Yes,Yes,Yes,16.16
+Festival,Upma,Fried Rice,Dosa,550,Saturday,Yes,Yes,Yes,Yes,18.26
+Special,Upma,Fried Rice,Chapathi,408,Tuesday,No,No,Yes,No,14.43
+Regular,Idli,Fried Rice,Poori,503,Tuesday,No,No,Yes,No,12.84
+Festival,Pongal,Meals,Chapathi,356,Saturday,Yes,Yes,No,Yes,11.11
+Regular,Appam,Sambar Rice,Idiyappam,534,Sunday,No,No,No,Yes,15.17
+Festival,Appam,Lemon Rice,Poori,454,Tuesday,No,Yes,No,No,11.12
+Regular,Upma,Veg Biryani,Curd Rice,640,Saturday,Yes,Yes,No,No,13.23
+Regular,Idli,Sambar Rice,Poori,522,Friday,Yes,Yes,No,Yes,13.03
+Festival,Poori,Veg Biryani,Idiyappam,603,Sunday,No,No,Yes,No,15.62
+Festival,Appam,Meals,Veg Fried Rice,592,Monday,No,No,No,No,12.11
+Festival,Chapathi,Tomato Rice,Idiyappam,362,Saturday,No,Yes,No,Yes,13.47
+Festival,Appam,Meals,Poori,363,Wednesday,No,No,No,No,8.5
+Special,Rava Kichadi,Sambar Rice,Chapathi,361,Monday,No,No,No,No,9.81
+Regular,Poori,Meals,Dosa,563,Tuesday,Yes,No,Yes,No,11.9
+Festival,Upma,Tomato Rice,Poori,513,Wednesday,Yes,Yes,No,No,9.76
+Regular,Poori,Lemon Rice,Veg Fried Rice,590,Sunday,Yes,No,No,No,9.91
+Festival,Dosa,Fried Rice,Dosa,490,Tuesday,No,Yes,No,Yes,16.96
+Regular,Pongal,Sambar Rice,Dosa,615,Saturday,Yes,Yes,No,Yes,15.94
+Regular,Chapathi,Meals,Idiyappam,500,Monday,Yes,Yes,No,No,7.96
+Regular,Chapathi,Lemon Rice,Parotta,578,Thursday,Yes,No,No,No,8.91
+Festival,Dosa,Tomato Rice,Idiyappam,532,Monday,No,No,No,Yes,17.09
+Special,Appam,Meals,Poori,625,Thursday,Yes,No,Yes,No,15.36
+Regular,Poori,Meals,Parotta,367,Friday,Yes,No,No,Yes,8.9
+Festival,Chapathi,Veg Biryani,Curd Rice,427,Friday,No,Yes,No,Yes,15.75
+Special,Pongal,Curd Rice,Poori,516,Wednesday,No,Yes,No,No,15.54
+Special,Appam,Tomato Rice,Parotta,451,Monday,No,Yes,Yes,Yes,22.12
+Special,Idli,Meals,Parotta,639,Monday,Yes,No,Yes,Yes,21.33
+Special,Appam,Fried Rice,Dosa,583,Monday,Yes,No,Yes,No,14.42
+Regular,Upma,Sambar Rice,Parotta,502,Tuesday,No,Yes,Yes,Yes,21.59
+Regular,Appam,Meals,Chapathi,429,Sunday,Yes,No,Yes,Yes,15.34
+Regular,Pongal,Curd Rice,Veg Fried Rice,407,Wednesday,Yes,Yes,Yes,Yes,14.94
+Special,Chapathi,Tomato Rice,Chapathi,449,Saturday,No,No,Yes,No,14.82
+Festival,Dosa,Tomato Rice,Veg Fried Rice,517,Thursday,Yes,No,No,Yes,13.61
+Special,Poori,Veg Biryani,Veg Fried Rice,469,Tuesday,No,Yes,Yes,Yes,22.38
+Festival,Upma,Curd Rice,Poori,611,Monday,No,No,No,Yes,18.49
+Regular,Pongal,Meals,Parotta,500,Sunday,No,No,No,Yes,15.54
+Special,Appam,Curd Rice,Chapathi,436,Friday,No,Yes,No,No,13.88
+Regular,Appam,Veg Biryani,Poori,437,Sunday,Yes,No,No,Yes,11.38
+Special,Chapathi,Sambar Rice,Curd Rice,411,Saturday,No,Yes,No,No,13.43
+Regular,Rava Kichadi,Sambar Rice,Curd Rice,556,Saturday,No,No,No,Yes,16.59
+Festival,Rava Kichadi,Sambar Rice,Idiyappam,574,Saturday,No,No,No,No,12.67
+Regular,Rava Kichadi,Tomato Rice,Chapathi,497,Wednesday,No,No,No,Yes,14.6
+Festival,Chapathi,Meals,Curd Rice,540,Sunday,No,Yes,No,Yes,19.08
+Regular,Pongal,Veg Biryani,Veg Fried Rice,448,Thursday,Yes,Yes,No,Yes,13.02
+Special,Dosa,Lemon Rice,Veg Fried Rice,545,Tuesday,Yes,Yes,No,No,12.03
+Festival,Chapathi,Meals,Dosa,430,Tuesday,Yes,No,No,Yes,10.67
+Special,Pongal,Tomato Rice,Parotta,375,Monday,No,Yes,No,No,12.58
+Festival,Idli,Sambar Rice,Dosa,496,Sunday,Yes,Yes,Yes,No,13.08
+Special,Rava Kichadi,Veg Biryani,Dosa,408,Monday,Yes,No,No,Yes,12.36
+Special,Appam,Meals,Idiyappam,423,Sunday,No,Yes,No,No,11.81
+Special,Rava Kichadi,Lemon Rice,Dosa,648,Friday,Yes,No,Yes,No,17.31
+Regular,Chapathi,Sambar Rice,Veg Fried Rice,469,Tuesday,No,No,No,Yes,13.29
+Festival,Dosa,Fried Rice,Dosa,552,Monday,Yes,Yes,No,Yes,14.46
+Festival,Appam,Fried Rice,Dosa,538,Sunday,No,No,No,No,12.08
+Regular,Rava Kichadi,Veg Biryani,Curd Rice,539,Sunday,Yes,No,Yes,Yes,18.15
+Regular,Dosa,Tomato Rice,Veg Fried Rice,481,Monday,No,No,No,No,8.98
+Regular,Dosa,Fried Rice,Veg Fried Rice,619,Friday,Yes,No,Yes,Yes,17.56
+Regular,Rava Kichadi,Veg Biryani,Parotta,373,Monday,Yes,No,No,No,4.96
+Regular,Rava Kichadi,Curd Rice,Dosa,514,Saturday,Yes,No,No,Yes,11.37
+Special,Pongal,Lemon Rice,Dosa,623,Tuesday,Yes,Yes,Yes,No,16.22
+Special,Appam,Curd Rice,Idiyappam,380,Wednesday,Yes,Yes,Yes,No,14.0
+Special,Upma,Lemon Rice,Idiyappam,490,Sunday,No,Yes,Yes,Yes,22.23
+Special,Appam,Veg Biryani,Parotta,454,Wednesday,No,Yes,No,Yes,19.26
+Festival,Rava Kichadi,Veg Biryani,Curd Rice,359,Thursday,No,No,Yes,Yes,15.17
+Special,Chapathi,Veg Biryani,Veg Fried Rice,474,Friday,Yes,Yes,Yes,No,14.92
+Regular,Pongal,Meals,Curd Rice,454,Tuesday,Yes,Yes,Yes,Yes,16.85
+Festival,Pongal,Curd Rice,Dosa,524,Monday,No,Yes,No,No,13.72
+Special,Poori,Lemon Rice,Dosa,617,Friday,Yes,No,Yes,Yes,21.41
+Festival,Pongal,Meals,Chapathi,646,Saturday,No,Yes,Yes,Yes,24.74
+Regular,Idli,Sambar Rice,Idiyappam,446,Friday,Yes,Yes,Yes,Yes,17.32
+Special,Poori,Meals,Idiyappam,577,Friday,Yes,Yes,No,Yes,17.75
+Regular,Dosa,Meals,Chapathi,628,Thursday,Yes,No,Yes,No,13.82
+Festival,Poori,Tomato Rice,Parotta,436,Thursday,Yes,Yes,No,Yes,13.75
+Regular,Chapathi,Meals,Curd Rice,387,Tuesday,No,Yes,Yes,Yes,17.59
+Festival,Idli,Meals,Dosa,582,Thursday,Yes,No,Yes,No,13.5
+Festival,Dosa,Sambar Rice,Poori,389,Saturday,No,Yes,Yes,No,14.31
+Regular,Chapathi,Tomato Rice,Parotta,481,Saturday,Yes,Yes,No,Yes,14.38
+Festival,Upma,Sambar Rice,Curd Rice,559,Friday,No,No,Yes,No,15.71
+Regular,Idli,Fried Rice,Parotta,572,Saturday,Yes,No,No,No,6.97
+Regular,Rava Kichadi,Veg Biryani,Curd Rice,558,Thursday,No,Yes,No,No,14.48
+Regular,Rava Kichadi,Sambar Rice,Curd Rice,437,Tuesday,Yes,No,No,No,7.15
+Regular,Appam,Curd Rice,Veg Fried Rice,636,Monday,No,Yes,No,Yes,18.51
+Special,Pongal,Curd Rice,Dosa,543,Sunday,Yes,Yes,Yes,No,15.05
+Special,Appam,Sambar Rice,Curd Rice,365,Saturday,Yes,No,No,No,5.73
+Special,Pongal,Veg Biryani,Idiyappam,594,Monday,No,No,Yes,No,19.01
+Regular,Idli,Veg Biryani,Idiyappam,455,Thursday,Yes,Yes,Yes,No,13.4
+Festival,Upma,Curd Rice,Dosa,590,Friday,Yes,No,No,No,9.96
+Special,Appam,Fried Rice,Idiyappam,350,Sunday,No,Yes,Yes,Yes,20.28
+Regular,Appam,Lemon Rice,Dosa,415,Tuesday,No,Yes,Yes,Yes,18.58
+Regular,Rava Kichadi,Tomato Rice,Veg Fried Rice,367,Sunday,Yes,No,Yes,Yes,13.59
+Regular,Dosa,Sambar Rice,Veg Fried Rice,629,Thursday,No,No,Yes,Yes,21.24
+Regular,Chapathi,Fried Rice,Veg Fried Rice,370,Wednesday,No,Yes,No,Yes,12.93
+Special,Appam,Meals,Parotta,363,Saturday,Yes,No,Yes,Yes,15.27
+Festival,Pongal,Curd Rice,Curd Rice,531,Sunday,No,No,Yes,Yes,19.53
+Festival,Upma,Lemon Rice,Veg Fried Rice,575,Tuesday,No,No,Yes,No,14.93
+Regular,Chapathi,Sambar Rice,Veg Fried Rice,511,Sunday,No,No,Yes,No,15.58
+Festival,Idli,Fried Rice,Parotta,410,Wednesday,Yes,No,No,Yes,9.01
+Festival,Upma,Meals,Dosa,554,Tuesday,Yes,No,No,Yes,13.1
+Festival,Poori,Fried Rice,Curd Rice,482,Friday,No,Yes,No,No,11.49
+Special,Rava Kichadi,Lemon Rice,Chapathi,586,Wednesday,No,No,No,Yes,18.97
+Festival,Pongal,Meals,Poori,395,Sunday,No,Yes,No,No,10.3
+Special,Upma,Fried Rice,Parotta,605,Tuesday,No,No,Yes,No,17.14
+Regular,Rava Kichadi,Sambar Rice,Dosa,641,Wednesday,No,No,No,Yes,16.4
+Regular,Appam,Fried Rice,Curd Rice,625,Saturday,Yes,No,Yes,Yes,19.61
+Regular,Pongal,Fried Rice,Dosa,420,Friday,No,No,No,No,8.63
+Festival,Idli,Meals,Idiyappam,478,Friday,Yes,Yes,No,No,9.39
+Special,Appam,Veg Biryani,Idiyappam,537,Wednesday,Yes,Yes,Yes,No,15.21
+Regular,Rava Kichadi,Curd Rice,Veg Fried Rice,497,Thursday,Yes,No,No,No,6.44
+Festival,Dosa,Meals,Idiyappam,579,Wednesday,Yes,No,No,No,9.68
+Regular,Chapathi,Fried Rice,Dosa,600,Thursday,Yes,No,Yes,Yes,17.54
+Regular,Upma,Fried Rice,Poori,491,Wednesday,No,No,No,No,9.01
+Festival,Upma,Curd Rice,Curd Rice,380,Monday,No,Yes,Yes,No,14.79
+Special,Pongal,Meals,Idiyappam,583,Monday,Yes,No,No,No,10.79
+Special,Upma,Tomato Rice,Chapathi,356,Sunday,Yes,No,No,Yes,9.62
+Festival,Idli,Meals,Veg Fried Rice,462,Saturday,Yes,No,No,Yes,11.81
+Festival,Dosa,Veg Biryani,Idiyappam,466,Saturday,No,No,Yes,No,14.31
+Regular,Pongal,Veg Biryani,Poori,605,Wednesday,Yes,Yes,Yes,No,15.8
+Festival,Rava Kichadi,Veg Biryani,Poori,425,Tuesday,No,Yes,Yes,No,13.35
+Regular,Pongal,Meals,Curd Rice,397,Friday,Yes,Yes,No,Yes,11.68
+Regular,Idli,Tomato Rice,Poori,417,Friday,No,No,No,Yes,13.52
+Festival,Pongal,Lemon Rice,Dosa,452,Sunday,Yes,No,Yes,No,11.28
+Special,Rava Kichadi,Fried Rice,Poori,448,Tuesday,No,Yes,Yes,No,16.84
+Regular,Appam,Meals,Parotta,411,Tuesday,Yes,Yes,No,No,8.6
+Special,Appam,Veg Biryani,Dosa,572,Friday,No,No,Yes,No,16.05
+Festival,Chapathi,Veg Biryani,Curd Rice,555,Friday,Yes,Yes,No,No,10.17
+Regular,Idli,Meals,Idiyappam,554,Saturday,Yes,Yes,No,Yes,15.1
+Festival,Pongal,Meals,Veg Fried Rice,365,Wednesday,No,Yes,Yes,Yes,18.38
+Festival,Appam,Veg Biryani,Dosa,540,Wednesday,No,No,No,No,11.99
+Regular,Chapathi,Veg Biryani,Parotta,591,Thursday,Yes,No,Yes,Yes,17.8
+Regular,Appam,Lemon Rice,Parotta,362,Tuesday,Yes,Yes,No,No,6.65
+Festival,Appam,Tomato Rice,Chapathi,397,Friday,Yes,No,Yes,Yes,14.72
+Festival,Appam,Fried Rice,Parotta,503,Wednesday,Yes,Yes,No,No,7.64
+Regular,Chapathi,Tomato Rice,Poori,535,Sunday,No,Yes,Yes,No,15.68
+Special,Idli,Curd Rice,Chapathi,386,Friday,No,Yes,No,No,10.53
+Special,Chapathi,Fried Rice,Curd Rice,393,Monday,No,Yes,No,Yes,15.97
+Regular,Pongal,Meals,Poori,519,Sunday,Yes,No,No,No,8.39
+Special,Dosa,Sambar Rice,Curd Rice,519,Sunday,No,Yes,Yes,No,17.95
+Special,Rava Kichadi,Curd Rice,Chapathi,371,Thursday,Yes,Yes,No,No,7.62
+Festival,Idli,Fried Rice,Curd Rice,537,Monday,Yes,No,Yes,No,11.44
+Regular,Rava Kichadi,Sambar Rice,Idiyappam,607,Monday,Yes,No,No,Yes,13.29
+Regular,Dosa,Lemon Rice,Chapathi,506,Friday,No,No,No,No,10.51
+Special,Idli,Curd Rice,Curd Rice,589,Thursday,No,Yes,Yes,Yes,26.18
+Special,Upma,Curd Rice,Poori,541,Thursday,Yes,Yes,Yes,Yes,22.12
+Festival,Chapathi,Veg Biryani,Poori,403,Tuesday,No,Yes,No,Yes,16.38
+Special,Dosa,Curd Rice,Poori,357,Wednesday,Yes,Yes,Yes,Yes,18.04
+Festival,Upma,Meals,Parotta,351,Tuesday,Yes,No,Yes,Yes,11.79
+Special,Dosa,Tomato Rice,Veg Fried Rice,388,Sunday,No,No,Yes,No,14.13
+Special,Dosa,Lemon Rice,Veg Fried Rice,637,Thursday,Yes,No,Yes,No,14.9
+Regular,Poori,Veg Biryani,Chapathi,639,Tuesday,Yes,Yes,No,No,10.61
+Special,Upma,Lemon Rice,Curd Rice,562,Wednesday,Yes,Yes,Yes,No,15.69
+Special,Poori,Lemon Rice,Veg Fried Rice,394,Monday,No,No,Yes,Yes,19.85
+Special,Rava Kichadi,Curd Rice,Idiyappam,634,Saturday,No,No,Yes,Yes,23.01
+Special,Poori,Lemon Rice,Dosa,584,Tuesday,Yes,No,No,No,11.67
+Festival,Chapathi,Curd Rice,Poori,392,Saturday,No,Yes,No,Yes,14.4
+Festival,Appam,Curd Rice,Dosa,422,Monday,Yes,Yes,No,No,8.01
+Festival,Upma,Veg Biryani,Veg Fried Rice,397,Tuesday,Yes,No,Yes,Yes,12.84
+Special,Idli,Lemon Rice,Veg Fried Rice,558,Friday,Yes,Yes,No,Yes,18.42
+Festival,Rava Kichadi,Curd Rice,Dosa,364,Wednesday,No,No,No,No,7.75
+Festival,Rava Kichadi,Veg Biryani,Veg Fried Rice,381,Tuesday,No,Yes,No,Yes,14.99
+Festival,Chapathi,Meals,Chapathi,644,Sunday,No,No,Yes,No,16.62
+Festival,Chapathi,Tomato Rice,Idiyappam,576,Wednesday,Yes,Yes,Yes,No,15.66
+Regular,Chapathi,Sambar Rice,Parotta,407,Friday,No,Yes,No,Yes,16.26
+Special,Appam,Meals,Idiyappam,419,Tuesday,Yes,No,No,Yes,12.22
+Festival,Poori,Curd Rice,Veg Fried Rice,605,Saturday,Yes,Yes,No,Yes,16.26
+Regular,Dosa,Tomato Rice,Parotta,567,Friday,Yes,Yes,No,Yes,14.53
+Festival,Rava Kichadi,Sambar Rice,Idiyappam,596,Tuesday,Yes,Yes,No,Yes,16.23
+Special,Appam,Veg Biryani,Curd Rice,480,Wednesday,Yes,No,No,Yes,12.25
+Regular,Upma,Fried Rice,Parotta,466,Thursday,No,No,No,Yes,15.59
+Festival,Poori,Lemon Rice,Curd Rice,488,Sunday,Yes,Yes,No,Yes,13.02
+Special,Poori,Curd Rice,Poori,412,Wednesday,No,No,Yes,Yes,18.79
+Regular,Appam,Meals,Curd Rice,482,Thursday,No,No,No,No,9.67
+Special,Upma,Sambar Rice,Poori,508,Friday,Yes,No,Yes,No,12.5
+Regular,Pongal,Curd Rice,Poori,549,Thursday,Yes,No,Yes,Yes,17.97
+Regular,Rava Kichadi,Meals,Dosa,608,Sunday,No,No,Yes,Yes,22.28
+Regular,Appam,Lemon Rice,Parotta,553,Thursday,No,Yes,No,No,13.3
+Festival,Appam,Curd Rice,Veg Fried Rice,573,Sunday,Yes,Yes,Yes,Yes,20.74
+Special,Chapathi,Fried Rice,Chapathi,582,Sunday,Yes,Yes,Yes,No,16.69
+Regular,Upma,Tomato Rice,Curd Rice,479,Saturday,No,No,Yes,Yes,18.96
+Regular,Poori,Lemon Rice,Veg Fried Rice,443,Saturday,Yes,No,Yes,No,9.16
+Festival,Appam,Tomato Rice,Curd Rice,557,Tuesday,No,No,No,Yes,16.73
+Regular,Dosa,Veg Biryani,Chapathi,593,Friday,No,No,Yes,No,15.15
+Festival,Rava Kichadi,Tomato Rice,Idiyappam,483,Saturday,Yes,No,Yes,No,10.66
+Festival,Pongal,Meals,Dosa,597,Monday,Yes,No,Yes,Yes,16.55
+Festival,Poori,Veg Biryani,Poori,386,Tuesday,No,Yes,Yes,No,14.29
+Festival,Idli,Tomato Rice,Chapathi,423,Tuesday,No,Yes,No,Yes,14.32
+Regular,Dosa,Lemon Rice,Parotta,617,Sunday,Yes,No,No,No,7.85
+Special,Pongal,Veg Biryani,Chapathi,488,Saturday,Yes,Yes,Yes,Yes,21.03
+Festival,Upma,Sambar Rice,Dosa,626,Saturday,No,Yes,Yes,No,19.49
+Special,Dosa,Meals,Chapathi,515,Friday,No,No,No,No,11.32
+Festival,Rava Kichadi,Tomato Rice,Poori,617,Saturday,Yes,Yes,No,Yes,16.63
+Special,Rava Kichadi,Fried Rice,Veg Fried Rice,407,Monday,Yes,Yes,Yes,Yes,17.64
+Regular,Appam,Fried Rice,Idiyappam,405,Friday,Yes,No,Yes,No,8.34
+Festival,Rava Kichadi,Lemon Rice,Parotta,625,Thursday,No,No,No,Yes,18.9
+Festival,Dosa,Sambar Rice,Chapathi,646,Wednesday,No,Yes,Yes,No,19.01
+Regular,Dosa,Sambar Rice,Idiyappam,424,Sunday,Yes,No,No,No,6.82
+Special,Dosa,Curd Rice,Veg Fried Rice,608,Monday,Yes,No,Yes,Yes,18.93
+Festival,Chapathi,Lemon Rice,Dosa,535,Sunday,Yes,No,No,No,9.0
+Regular,Rava Kichadi,Curd Rice,Poori,519,Thursday,No,No,No,No,10.06
+Festival,Dosa,Fried Rice,Veg Fried Rice,389,Tuesday,Yes,No,No,Yes,10.97
+Special,Idli,Veg Biryani,Chapathi,489,Wednesday,Yes,Yes,No,Yes,15.86
+Regular,Poori,Lemon Rice,Idiyappam,599,Monday,No,Yes,Yes,Yes,22.67
+Festival,Idli,Tomato Rice,Idiyappam,631,Wednesday,No,Yes,Yes,Yes,23.74
+Regular,Idli,Fried Rice,Idiyappam,606,Thursday,Yes,Yes,Yes,No,15.61
+Special,Pongal,Tomato Rice,Poori,380,Sunday,No,Yes,Yes,Yes,20.82
+Festival,Pongal,Curd Rice,Parotta,644,Sunday,No,No,Yes,Yes,21.04
+Regular,Appam,Meals,Chapathi,460,Saturday,Yes,No,Yes,Yes,16.38
+Regular,Idli,Veg Biryani,Curd Rice,464,Monday,Yes,Yes,Yes,Yes,16.22
+Festival,Idli,Fried Rice,Dosa,495,Saturday,No,Yes,No,Yes,16.22
+Festival,Dosa,Meals,Veg Fried Rice,544,Thursday,No,No,Yes,Yes,18.81
+Special,Rava Kichadi,Lemon Rice,Curd Rice,379,Friday,No,No,Yes,Yes,20.02
+Special,Chapathi,Meals,Parotta,423,Thursday,No,No,Yes,Yes,20.31
+Special,Chapathi,Meals,Chapathi,396,Tuesday,No,No,No,Yes,15.72
+Regular,Idli,Sambar Rice,Parotta,605,Sunday,No,No,No,Yes,16.63
+Special,Appam,Lemon Rice,Idiyappam,520,Monday,No,Yes,No,No,14.07
+Festival,Pongal,Fried Rice,Poori,547,Monday,Yes,No,Yes,Yes,17.93
+Special,Dosa,Curd Rice,Chapathi,407,Thursday,No,No,No,No,11.33
+Festival,Idli,Sambar Rice,Curd Rice,402,Tuesday,No,Yes,No,Yes,14.45
+Festival,Idli,Curd Rice,Dosa,510,Saturday,Yes,No,No,No,7.27
+Festival,Chapathi,Fried Rice,Parotta,640,Saturday,No,No,No,Yes,17.5
+Festival,Chapathi,Lemon Rice,Veg Fried Rice,477,Monday,Yes,No,Yes,Yes,15.03
+Special,Pongal,Sambar Rice,Curd Rice,481,Tuesday,Yes,Yes,Yes,Yes,20.99
+Regular,Chapathi,Sambar Rice,Chapathi,521,Tuesday,No,No,No,Yes,14.42
+Festival,Pongal,Lemon Rice,Chapathi,631,Monday,Yes,Yes,No,Yes,15.31
+Regular,Dosa,Veg Biryani,Idiyappam,389,Thursday,Yes,Yes,Yes,Yes,16.38
+Regular,Appam,Curd Rice,Parotta,449,Thursday,Yes,No,Yes,Yes,13.89
+Special,Upma,Sambar Rice,Chapathi,540,Wednesday,No,Yes,No,No,14.68
+Special,Appam,Meals,Parotta,456,Wednesday,No,No,Yes,No,14.78
+Special,Chapathi,Tomato Rice,Parotta,641,Tuesday,Yes,No,No,Yes,17.78
+Regular,Upma,Tomato Rice,Idiyappam,577,Thursday,Yes,No,Yes,Yes,17.38
+Special,Idli,Lemon Rice,Dosa,584,Monday,No,No,Yes,Yes,22.68
+Regular,Appam,Fried Rice,Poori,432,Saturday,Yes,No,Yes,No,10.13
+Special,Appam,Tomato Rice,Idiyappam,504,Sunday,Yes,No,No,Yes,13.26
+Festival,Upma,Meals,Dosa,595,Saturday,No,Yes,Yes,No,18.73
+Festival,Dosa,Fried Rice,Curd Rice,416,Thursday,Yes,Yes,No,No,7.09
+Special,Dosa,Fried Rice,Curd Rice,487,Sunday,Yes,Yes,Yes,Yes,18.89
+Special,Poori,Lemon Rice,Idiyappam,557,Thursday,Yes,No,No,Yes,14.56
+Regular,Chapathi,Sambar Rice,Parotta,521,Saturday,No,No,Yes,No,15.88
+Special,Idli,Meals,Idiyappam,503,Friday,No,No,Yes,Yes,20.24
+Regular,Dosa,Fried Rice,Idiyappam,517,Tuesday,No,Yes,Yes,No,15.56
+Regular,Idli,Fried Rice,Dosa,599,Wednesday,Yes,Yes,Yes,No,15.2
+Regular,Appam,Lemon Rice,Veg Fried Rice,412,Thursday,Yes,Yes,No,Yes,11.38
+Regular,Chapathi,Tomato Rice,Curd Rice,573,Wednesday,Yes,No,Yes,No,13.75
+Special,Chapathi,Lemon Rice,Chapathi,512,Thursday,No,No,No,No,13.43
+Festival,Appam,Tomato Rice,Parotta,539,Wednesday,No,Yes,Yes,No,18.12
+Regular,Appam,Sambar Rice,Chapathi,525,Thursday,Yes,No,No,No,6.39
+Festival,Appam,Sambar Rice,Idiyappam,596,Sunday,Yes,Yes,No,Yes,15.28
+Festival,Dosa,Tomato Rice,Idiyappam,463,Friday,Yes,No,Yes,Yes,15.22
+Festival,Rava Kichadi,Fried Rice,Poori,452,Thursday,No,Yes,No,No,11.43
+Special,Idli,Veg Biryani,Veg Fried Rice,624,Friday,Yes,No,No,No,10.19
+Special,Dosa,Sambar Rice,Veg Fried Rice,406,Monday,No,No,No,Yes,15.85
+Special,Pongal,Curd Rice,Parotta,518,Sunday,Yes,Yes,No,Yes,14.99
+Regular,Dosa,Tomato Rice,Chapathi,356,Saturday,No,No,No,No,6.7
+Festival,Appam,Fried Rice,Parotta,518,Thursday,No,No,No,Yes,14.88
+Regular,Upma,Tomato Rice,Parotta,437,Friday,No,Yes,Yes,No,13.3
+Festival,Poori,Fried Rice,Parotta,448,Monday,Yes,Yes,No,No,8.32
+Festival,Pongal,Meals,Veg Fried Rice,641,Monday,Yes,Yes,Yes,Yes,20.93
+Special,Idli,Sambar Rice,Idiyappam,471,Friday,No,No,No,Yes,15.29
+Festival,Poori,Lemon Rice,Dosa,353,Monday,Yes,No,Yes,No,8.32
+Special,Rava Kichadi,Tomato Rice,Parotta,479,Sunday,No,Yes,Yes,Yes,22.71
+Festival,Chapathi,Tomato Rice,Parotta,517,Wednesday,Yes,No,Yes,Yes,15.01
+Special,Poori,Sambar Rice,Idiyappam,542,Wednesday,No,No,Yes,Yes,20.35
+Special,Appam,Veg Biryani,Dosa,498,Thursday,No,Yes,Yes,Yes,23.5
+Festival,Chapathi,Veg Biryani,Parotta,637,Monday,No,Yes,No,Yes,20.16
+Festival,Appam,Fried Rice,Veg Fried Rice,514,Saturday,No,Yes,Yes,No,16.42
+Festival,Dosa,Curd Rice,Chapathi,355,Tuesday,Yes,Yes,Yes,Yes,14.63
+Special,Chapathi,Meals,Veg Fried Rice,488,Monday,Yes,No,No,No,8.36
+Special,Idli,Curd Rice,Chapathi,500,Monday,No,No,No,Yes,16.4
+Special,Pongal,Veg Biryani,Poori,639,Thursday,Yes,No,Yes,No,15.89
+Special,Idli,Lemon Rice,Poori,439,Saturday,No,Yes,No,No,14.0
+Festival,Rava Kichadi,Curd Rice,Parotta,484,Monday,No,Yes,No,No,11.49
+Regular,Appam,Tomato Rice,Parotta,558,Thursday,Yes,No,Yes,No,13.15
+Special,Poori,Lemon Rice,Poori,405,Monday,No,No,No,No,11.6
+Festival,Appam,Fried Rice,Poori,588,Wednesday,No,No,Yes,No,16.36
+Festival,Appam,Veg Biryani,Poori,553,Wednesday,Yes,No,No,Yes,11.83
+Regular,Poori,Sambar Rice,Curd Rice,556,Thursday,Yes,Yes,Yes,Yes,19.89
+Regular,Upma,Tomato Rice,Chapathi,599,Monday,Yes,No,No,Yes,14.04
+Special,Dosa,Lemon Rice,Poori,451,Wednesday,No,No,No,No,11.76
+Festival,Appam,Tomato Rice,Veg Fried Rice,419,Thursday,Yes,Yes,Yes,Yes,16.91
+Festival,Dosa,Sambar Rice,Veg Fried Rice,488,Saturday,Yes,Yes,No,No,10.24
+Festival,Appam,Veg Biryani,Dosa,384,Saturday,Yes,Yes,No,No,6.96
+Regular,Upma,Sambar Rice,Veg Fried Rice,355,Friday,Yes,No,Yes,No,8.64
+Special,Dosa,Lemon Rice,Chapathi,423,Friday,No,Yes,No,No,12.68
+Special,Idli,Tomato Rice,Veg Fried Rice,395,Tuesday,No,No,No,No,8.52
+Regular,Upma,Sambar Rice,Veg Fried Rice,541,Wednesday,Yes,Yes,No,No,10.98
+Regular,Idli,Fried Rice,Dosa,538,Sunday,No,Yes,Yes,Yes,22.04
+Festival,Pongal,Curd Rice,Veg Fried Rice,564,Friday,No,Yes,No,Yes,17.22
+Special,Rava Kichadi,Sambar Rice,Parotta,569,Saturday,Yes,No,No,Yes,14.21
+Festival,Pongal,Veg Biryani,Poori,535,Thursday,No,Yes,Yes,Yes,22.51
+Special,Dosa,Lemon Rice,Idiyappam,363,Friday,No,Yes,No,Yes,16.65
+Regular,Idli,Sambar Rice,Dosa,386,Sunday,No,No,Yes,No,11.15
+Festival,Dosa,Lemon Rice,Curd Rice,441,Thursday,No,Yes,Yes,Yes,19.66
+Festival,Appam,Veg Biryani,Curd Rice,592,Friday,No,No,Yes,Yes,19.9
+Special,Dosa,Lemon Rice,Poori,507,Thursday,Yes,No,No,Yes,13.8
+Special,Poori,Tomato Rice,Chapathi,471,Tuesday,Yes,No,Yes,Yes,17.88
+Regular,Chapathi,Lemon Rice,Chapathi,601,Sunday,No,Yes,No,No,14.67
+Special,Poori,Curd Rice,Veg Fried Rice,456,Tuesday,No,Yes,Yes,Yes,20.98
+Special,Appam,Lemon Rice,Curd Rice,552,Tuesday,No,Yes,Yes,Yes,24.66
+Festival,Poori,Meals,Chapathi,392,Sunday,Yes,No,No,Yes,9.27
+Regular,Appam,Tomato Rice,Parotta,544,Friday,No,Yes,No,No,13.26
+Regular,Poori,Veg Biryani,Curd Rice,442,Friday,No,Yes,Yes,Yes,20.24
+Special,Idli,Meals,Chapathi,554,Thursday,Yes,Yes,No,Yes,18.36
+Festival,Poori,Meals,Parotta,539,Monday,No,No,No,No,9.53
+Regular,Dosa,Fried Rice,Poori,631,Thursday,No,No,Yes,Yes,20.44
+Festival,Upma,Curd Rice,Chapathi,590,Friday,Yes,No,No,No,8.96
+Special,Rava Kichadi,Lemon Rice,Parotta,397,Thursday,No,Yes,Yes,No,14.67
+Special,Appam,Meals,Parotta,392,Tuesday,Yes,No,No,Yes,12.02
+Festival,Chapathi,Curd Rice,Chapathi,552,Thursday,No,No,No,No,11.69
+Special,Upma,Fried Rice,Dosa,482,Sunday,No,No,Yes,No,15.28
+Special,Upma,Tomato Rice,Idiyappam,424,Tuesday,No,No,Yes,No,14.97
+Festival,Pongal,Sambar Rice,Dosa,441,Sunday,No,Yes,No,Yes,16.26
+Regular,Pongal,Lemon Rice,Veg Fried Rice,616,Friday,Yes,Yes,No,No,10.67
+Festival,Dosa,Lemon Rice,Curd Rice,425,Monday,No,Yes,Yes,Yes,20.34
+Special,Idli,Meals,Poori,559,Sunday,No,Yes,No,Yes,20.88
+Festival,Appam,Lemon Rice,Curd Rice,509,Friday,No,No,No,Yes,14.6
+Special,Chapathi,Meals,Dosa,382,Tuesday,Yes,No,No,Yes,12.13
+Regular,Poori,Lemon Rice,Dosa,557,Thursday,Yes,No,Yes,No,11.58
+Special,Dosa,Sambar Rice,Veg Fried Rice,613,Wednesday,No,No,Yes,Yes,24.42
+Festival,Appam,Lemon Rice,Dosa,362,Thursday,No,Yes,Yes,No,12.21
+Festival,Pongal,Sambar Rice,Poori,601,Wednesday,No,No,No,No,11.19
+Special,Appam,Meals,Dosa,414,Thursday,No,Yes,No,No,11.59
+Special,Appam,Fried Rice,Parotta,590,Sunday,No,Yes,No,Yes,20.34
+Special,Rava Kichadi,Tomato Rice,Dosa,560,Friday,No,No,Yes,Yes,22.27
+Regular,Idli,Lemon Rice,Chapathi,561,Monday,No,No,Yes,Yes,20.22
+Special,Upma,Tomato Rice,Parotta,481,Saturday,No,Yes,Yes,No,16.75
+Special,Pongal,Fried Rice,Chapathi,568,Thursday,Yes,No,Yes,No,15.7
+Special,Dosa,Sambar Rice,Veg Fried Rice,499,Sunday,No,Yes,No,Yes,17.73
+Special,Rava Kichadi,Tomato Rice,Veg Fried Rice,366,Sunday,No,Yes,No,No,10.95
+Festival,Idli,Tomato Rice,Parotta,409,Wednesday,Yes,No,Yes,No,7.85
+Regular,Upma,Fried Rice,Chapathi,650,Wednesday,No,Yes,Yes,No,18.52
+Festival,Idli,Tomato Rice,Idiyappam,388,Saturday,Yes,No,No,No,5.38
+Regular,Chapathi,Curd Rice,Veg Fried Rice,599,Saturday,Yes,No,No,Yes,14.17
+Festival,Chapathi,Tomato Rice,Veg Fried Rice,422,Tuesday,Yes,No,No,Yes,10.38
+Special,Poori,Lemon Rice,Parotta,599,Friday,No,Yes,No,Yes,22.05
+Regular,Upma,Fried Rice,Chapathi,406,Wednesday,No,Yes,Yes,No,12.79
+Special,Dosa,Curd Rice,Veg Fried Rice,440,Monday,No,No,Yes,Yes,18.73
+Regular,Pongal,Meals,Parotta,621,Sunday,No,Yes,No,Yes,20.68
+Regular,Chapathi,Lemon Rice,Dosa,519,Wednesday,Yes,No,No,No,7.63
+Regular,Idli,Lemon Rice,Curd Rice,613,Thursday,No,Yes,No,No,14.73
+Festival,Chapathi,Sambar Rice,Dosa,516,Sunday,No,Yes,No,Yes,17.17
+Regular,Dosa,Curd Rice,Curd Rice,491,Saturday,No,Yes,No,No,11.35
+Festival,Rava Kichadi,Lemon Rice,Dosa,575,Tuesday,Yes,Yes,No,No,9.12
+Regular,Dosa,Veg Biryani,Parotta,612,Monday,No,Yes,Yes,Yes,23.57
+Special,Dosa,Sambar Rice,Chapathi,466,Tuesday,Yes,Yes,Yes,Yes,20.36
+Festival,Idli,Fried Rice,Chapathi,446,Wednesday,Yes,No,Yes,Yes,15.84
+Regular,Idli,Fried Rice,Parotta,553,Thursday,No,Yes,Yes,Yes,22.43
+Regular,Rava Kichadi,Meals,Idiyappam,522,Friday,No,Yes,No,No,12.68
+Regular,Upma,Sambar Rice,Curd Rice,526,Saturday,No,No,Yes,No,13.75
+Regular,Appam,Meals,Poori,351,Thursday,Yes,Yes,Yes,No,9.89
+Festival,Upma,Veg Biryani,Poori,525,Thursday,Yes,No,No,Yes,11.41
+Festival,Poori,Veg Biryani,Poori,361,Tuesday,No,Yes,Yes,No,11.85
+Festival,Upma,Veg Biryani,Parotta,537,Friday,No,Yes,Yes,No,16.02
+Regular,Idli,Meals,Veg Fried Rice,475,Friday,No,Yes,Yes,No,16.08
+Regular,Chapathi,Sambar Rice,Parotta,394,Friday,Yes,No,Yes,No,7.76
+Special,Poori,Curd Rice,Parotta,627,Sunday,Yes,No,No,No,12.36
+Festival,Appam,Tomato Rice,Veg Fried Rice,603,Wednesday,No,Yes,Yes,No,19.17
+Regular,Upma,Curd Rice,Veg Fried Rice,581,Sunday,Yes,Yes,Yes,No,16.07
+Festival,Appam,Tomato Rice,Poori,605,Friday,Yes,No,No,Yes,15.39
+Regular,Appam,Tomato Rice,Poori,439,Monday,Yes,Yes,No,Yes,11.65
+Festival,Appam,Fried Rice,Parotta,356,Sunday,Yes,Yes,No,Yes,9.98
+Special,Idli,Tomato Rice,Dosa,630,Friday,Yes,Yes,No,Yes,18.23
+Special,Pongal,Curd Rice,Parotta,438,Tuesday,Yes,No,Yes,No,11.43
+Special,Poori,Veg Biryani,Poori,427,Sunday,Yes,No,Yes,Yes,16.63
+Festival,Poori,Lemon Rice,Chapathi,540,Saturday,Yes,Yes,No,No,9.11
+Special,Chapathi,Veg Biryani,Chapathi,622,Tuesday,Yes,No,Yes,No,14.91
+Festival,Upma,Curd Rice,Dosa,576,Saturday,Yes,No,Yes,Yes,16.06
+Festival,Rava Kichadi,Tomato Rice,Curd Rice,566,Thursday,No,Yes,Yes,No,18.14
+Special,Rava Kichadi,Curd Rice,Veg Fried Rice,395,Thursday,Yes,No,Yes,No,11.38
+Special,Poori,Meals,Poori,453,Sunday,Yes,Yes,Yes,No,15.52
+Special,Dosa,Fried Rice,Poori,535,Tuesday,Yes,No,Yes,No,13.75
+Regular,Idli,Veg Biryani,Poori,561,Tuesday,Yes,Yes,No,Yes,16.43
+Regular,Rava Kichadi,Lemon Rice,Veg Fried Rice,532,Sunday,Yes,No,No,Yes,12.3
+Special,Poori,Veg Biryani,Idiyappam,460,Tuesday,No,Yes,Yes,No,17.54
+Special,Poori,Tomato Rice,Curd Rice,369,Saturday,Yes,No,Yes,No,10.68
+Regular,Idli,Curd Rice,Curd Rice,382,Thursday,Yes,No,No,No,6.02
+Special,Poori,Tomato Rice,Parotta,440,Monday,No,Yes,Yes,Yes,20.91
+Special,Poori,Sambar Rice,Poori,643,Saturday,Yes,Yes,Yes,No,16.82
+Festival,Dosa,Sambar Rice,Chapathi,396,Wednesday,Yes,No,No,Yes,10.22
+Special,Chapathi,Sambar Rice,Veg Fried Rice,375,Saturday,Yes,No,No,No,6.11
+Regular,Chapathi,Lemon Rice,Parotta,502,Thursday,Yes,Yes,No,Yes,13.8
+Special,Appam,Curd Rice,Chapathi,462,Monday,Yes,Yes,Yes,No,14.13
+Festival,Poori,Tomato Rice,Chapathi,499,Monday,No,Yes,No,No,12.21
+Special,Pongal,Veg Biryani,Parotta,459,Sunday,No,Yes,No,Yes,18.72
+Festival,Chapathi,Tomato Rice,Dosa,450,Sunday,Yes,Yes,Yes,Yes,17.69
+Festival,Chapathi,Curd Rice,Curd Rice,432,Wednesday,No,Yes,No,No,9.84
+Special,Idli,Veg Biryani,Poori,562,Saturday,No,Yes,No,No,14.42
+Festival,Chapathi,Tomato Rice,Chapathi,503,Friday,No,Yes,Yes,No,15.65
+Festival,Upma,Curd Rice,Veg Fried Rice,622,Friday,No,No,Yes,No,16.93
+Special,Dosa,Sambar Rice,Dosa,541,Friday,Yes,No,No,No,9.61
+Regular,Dosa,Meals,Parotta,466,Sunday,No,No,No,Yes,14.45
+Regular,Chapathi,Meals,Veg Fried Rice,583,Tuesday,No,No,No,No,11.08
+Special,Appam,Veg Biryani,Poori,617,Sunday,No,Yes,Yes,No,21.05
+Festival,Upma,Tomato Rice,Veg Fried Rice,589,Thursday,Yes,No,Yes,Yes,16.43
+Regular,Dosa,Fried Rice,Parotta,592,Thursday,No,Yes,No,No,14.0
+Festival,Dosa,Sambar Rice,Chapathi,453,Thursday,No,Yes,Yes,No,15.5
+Special,Upma,Lemon Rice,Poori,437,Tuesday,No,Yes,Yes,Yes,23.08
+Regular,Upma,Meals,Idiyappam,357,Monday,Yes,No,No,No,4.87
+Regular,Rava Kichadi,Tomato Rice,Chapathi,646,Tuesday,No,Yes,Yes,Yes,23.72
+Regular,Idli,Sambar Rice,Veg Fried Rice,443,Saturday,No,No,Yes,No,13.35
+Regular,Upma,Lemon Rice,Dosa,444,Saturday,No,Yes,Yes,No,14.72
+Festival,Pongal,Lemon Rice,Chapathi,625,Wednesday,No,Yes,Yes,Yes,24.42
+Festival,Chapathi,Lemon Rice,Chapathi,508,Saturday,No,Yes,No,Yes,17.81
+Regular,Chapathi,Sambar Rice,Idiyappam,414,Wednesday,No,Yes,Yes,Yes,18.37
+Special,Chapathi,Sambar Rice,Chapathi,391,Sunday,Yes,No,No,Yes,11.37
+Special,Poori,Sambar Rice,Chapathi,471,Monday,Yes,No,Yes,No,10.93
+Special,Poori,Sambar Rice,Chapathi,591,Sunday,No,Yes,Yes,No,20.52
+Special,Pongal,Fried Rice,Chapathi,520,Sunday,Yes,Yes,No,No,11.43
+Festival,Appam,Tomato Rice,Curd Rice,455,Thursday,No,Yes,Yes,No,13.74
+Regular,Pongal,Meals,Parotta,363,Friday,Yes,No,Yes,Yes,13.56
+Regular,Dosa,Lemon Rice,Dosa,516,Sunday,Yes,Yes,Yes,Yes,17.15
+Special,Rava Kichadi,Curd Rice,Idiyappam,359,Monday,Yes,Yes,Yes,Yes,16.21
+Regular,Appam,Fried Rice,Curd Rice,570,Sunday,Yes,No,No,No,7.17
+Festival,Chapathi,Veg Biryani,Dosa,543,Wednesday,No,Yes,Yes,No,15.37
+Regular,Idli,Fried Rice,Dosa,555,Sunday,Yes,Yes,Yes,No,14.65
+Regular,Dosa,Curd Rice,Parotta,592,Saturday,No,Yes,Yes,Yes,22.36
+Regular,Appam,Tomato Rice,Veg Fried Rice,498,Monday,No,No,No,Yes,13.89
+Special,Rava Kichadi,Meals,Veg Fried Rice,373,Saturday,No,No,Yes,Yes,18.8
+Regular,Appam,Fried Rice,Veg Fried Rice,604,Sunday,Yes,Yes,Yes,No,14.59
+Festival,Pongal,Veg Biryani,Parotta,551,Thursday,Yes,Yes,No,Yes,15.42
+Festival,Appam,Fried Rice,Idiyappam,558,Thursday,No,Yes,No,Yes,18.68
+Special,Appam,Curd Rice,Parotta,462,Wednesday,No,Yes,No,Yes,17.78
+Regular,Chapathi,Curd Rice,Parotta,390,Wednesday,Yes,No,Yes,No,9.07
+Regular,Pongal,Curd Rice,Veg Fried Rice,475,Sunday,Yes,No,Yes,No,9.11
+Regular,Idli,Tomato Rice,Curd Rice,389,Friday,Yes,Yes,No,No,7.37
+Regular,Dosa,Veg Biryani,Curd Rice,469,Saturday,Yes,Yes,No,No,7.55
+Special,Poori,Tomato Rice,Idiyappam,415,Monday,Yes,Yes,Yes,No,11.99
+Festival,Chapathi,Sambar Rice,Curd Rice,496,Friday,No,Yes,Yes,Yes,20.85
+Regular,Poori,Veg Biryani,Chapathi,420,Friday,Yes,No,Yes,No,10.48
+Festival,Upma,Curd Rice,Poori,454,Sunday,Yes,No,Yes,No,11.54
+Festival,Poori,Sambar Rice,Idiyappam,618,Tuesday,No,Yes,No,No,14.0
+Festival,Chapathi,Fried Rice,Curd Rice,491,Wednesday,No,No,Yes,No,14.2
+Festival,Idli,Veg Biryani,Dosa,356,Sunday,No,No,Yes,Yes,15.12
+Regular,Upma,Fried Rice,Poori,432,Monday,Yes,No,No,No,6.32
+Festival,Chapathi,Curd Rice,Chapathi,597,Wednesday,No,Yes,No,Yes,18.32
+Festival,Appam,Fried Rice,Chapathi,478,Friday,Yes,Yes,No,No,8.48
+Special,Upma,Lemon Rice,Idiyappam,542,Thursday,No,Yes,No,Yes,19.55
+Special,Chapathi,Tomato Rice,Veg Fried Rice,588,Saturday,Yes,Yes,Yes,No,17.58
+Festival,Pongal,Sambar Rice,Idiyappam,578,Saturday,Yes,Yes,Yes,Yes,18.47
+Festival,Pongal,Lemon Rice,Chapathi,528,Monday,Yes,Yes,No,No,10.58
+Regular,Pongal,Tomato Rice,Chapathi,627,Friday,No,No,No,No,13.46
+Regular,Dosa,Sambar Rice,Dosa,504,Friday,No,No,No,Yes,15.26
+Festival,Idli,Meals,Parotta,564,Thursday,No,No,Yes,No,14.56
+Special,Chapathi,Lemon Rice,Parotta,416,Friday,No,No,No,Yes,15.06
+Festival,Pongal,Fried Rice,Dosa,389,Friday,No,No,Yes,No,10.67
+Festival,Rava Kichadi,Sambar Rice,Curd Rice,389,Tuesday,No,No,No,Yes,11.94
+Festival,Poori,Curd Rice,Parotta,479,Thursday,No,No,Yes,Yes,18.39
+Festival,Appam,Lemon Rice,Idiyappam,513,Sunday,No,Yes,No,No,11.44
+Special,Upma,Sambar Rice,Idiyappam,533,Monday,Yes,No,Yes,Yes,18.31
+Regular,Poori,Curd Rice,Curd Rice,427,Tuesday,No,No,Yes,No,13.89
+Special,Upma,Fried Rice,Dosa,503,Tuesday,No,Yes,Yes,No,17.59
+Festival,Dosa,Sambar Rice,Chapathi,604,Wednesday,Yes,Yes,Yes,No,15.83
+Festival,Chapathi,Sambar Rice,Parotta,413,Tuesday,No,No,No,No,9.21
+Regular,Upma,Lemon Rice,Dosa,572,Saturday,Yes,Yes,No,No,10.59
+Festival,Idli,Fried Rice,Parotta,616,Monday,Yes,Yes,Yes,Yes,21.04
+Special,Appam,Meals,Parotta,590,Sunday,Yes,No,No,Yes,16.31
+Regular,Appam,Lemon Rice,Poori,444,Monday,Yes,No,Yes,Yes,15.05
+Special,Pongal,Veg Biryani,Curd Rice,459,Saturday,No,Yes,No,No,13.63
+Regular,Appam,Sambar Rice,Parotta,517,Tuesday,Yes,No,No,Yes,11.67
+Special,Pongal,Lemon Rice,Idiyappam,580,Tuesday,No,No,No,Yes,17.34
+Festival,Chapathi,Meals,Poori,633,Tuesday,No,Yes,No,Yes,20.27
+Festival,Dosa,Meals,Poori,540,Tuesday,No,No,No,No,11.96
+Festival,Dosa,Lemon Rice,Poori,582,Wednesday,Yes,No,Yes,No,12.17
+Special,Upma,Curd Rice,Chapathi,365,Monday,Yes,Yes,Yes,No,11.14
+Festival,Dosa,Veg Biryani,Veg Fried Rice,437,Friday,No,Yes,No,No,10.63
+Regular,Poori,Veg Biryani,Idiyappam,435,Friday,No,No,Yes,No,11.71
+Regular,Appam,Fried Rice,Dosa,561,Monday,Yes,No,No,Yes,13.95
+Regular,Chapathi,Curd Rice,Dosa,383,Friday,No,No,No,No,7.98
+Special,Chapathi,Curd Rice,Idiyappam,398,Thursday,Yes,No,No,No,8.33
+Special,Idli,Curd Rice,Poori,380,Thursday,No,No,Yes,Yes,17.54
+Regular,Rava Kichadi,Curd Rice,Chapathi,357,Thursday,Yes,Yes,Yes,Yes,15.15
+Special,Poori,Meals,Chapathi,635,Sunday,Yes,Yes,No,Yes,18.74
+Special,Upma,Curd Rice,Dosa,608,Sunday,No,Yes,No,No,16.85
+Regular,Rava Kichadi,Veg Biryani,Idiyappam,412,Wednesday,No,Yes,No,Yes,14.16
+Festival,Appam,Lemon Rice,Idiyappam,361,Monday,No,No,No,No,5.76
+Festival,Idli,Lemon Rice,Veg Fried Rice,603,Friday,Yes,No,No,Yes,15.4
+Regular,Poori,Curd Rice,Poori,585,Tuesday,Yes,Yes,Yes,No,13.65
+Regular,Idli,Fried Rice,Idiyappam,568,Sunday,Yes,Yes,Yes,No,13.14
+Festival,Idli,Fried Rice,Veg Fried Rice,527,Wednesday,Yes,No,No,No,9.01
+Festival,Upma,Meals,Parotta,529,Saturday,Yes,No,Yes,No,12.61
+Special,Chapathi,Fried Rice,Veg Fried Rice,530,Saturday,No,Yes,No,Yes,19.66
+Special,Idli,Meals,Poori,434,Monday,No,No,Yes,Yes,18.77
+Festival,Poori,Veg Biryani,Dosa,491,Sunday,Yes,No,Yes,No,11.52
+Festival,Chapathi,Sambar Rice,Parotta,518,Sunday,No,No,Yes,No,14.23
+Regular,Appam,Curd Rice,Poori,545,Friday,No,No,Yes,No,14.06
+Special,Upma,Veg Biryani,Poori,582,Thursday,No,Yes,Yes,Yes,25.46
+Special,Appam,Meals,Parotta,460,Thursday,Yes,Yes,Yes,Yes,18.16
+Festival,Dosa,Curd Rice,Poori,523,Friday,No,Yes,Yes,Yes,22.22
+Special,Poori,Lemon Rice,Dosa,399,Thursday,Yes,No,No,No,7.83
+Special,Chapathi,Curd Rice,Poori,573,Friday,Yes,No,No,No,9.7
+Regular,Rava Kichadi,Meals,Curd Rice,640,Tuesday,No,Yes,Yes,No,19.75
+Special,Rava Kichadi,Veg Biryani,Chapathi,479,Wednesday,Yes,No,Yes,Yes,16.92
+Festival,Appam,Sambar Rice,Idiyappam,457,Tuesday,No,No,No,Yes,13.11
+Regular,Appam,Curd Rice,Curd Rice,547,Saturday,No,Yes,No,Yes,18.74
+Regular,Dosa,Fried Rice,Dosa,442,Saturday,Yes,Yes,No,No,6.9
+Regular,Idli,Lemon Rice,Dosa,497,Friday,Yes,Yes,Yes,No,14.14
+Special,Rava Kichadi,Sambar Rice,Veg Fried Rice,398,Sunday,No,Yes,No,Yes,18.3
+Special,Pongal,Veg Biryani,Chapathi,464,Monday,Yes,No,Yes,Yes,16.56
+Regular,Dosa,Curd Rice,Curd Rice,553,Sunday,No,Yes,No,Yes,19.01
+Festival,Rava Kichadi,Fried Rice,Dosa,453,Friday,No,Yes,Yes,Yes,21.11
+Special,Chapathi,Veg Biryani,Idiyappam,408,Tuesday,No,Yes,Yes,Yes,21.42
+Regular,Chapathi,Veg Biryani,Veg Fried Rice,601,Wednesday,Yes,No,No,No,8.71
+Festival,Chapathi,Curd Rice,Dosa,602,Thursday,No,Yes,No,Yes,19.74
+Regular,Rava Kichadi,Veg Biryani,Idiyappam,368,Friday,Yes,Yes,No,Yes,11.5
+Special,Chapathi,Fried Rice,Idiyappam,422,Saturday,No,Yes,No,Yes,15.94
+Regular,Pongal,Curd Rice,Poori,454,Sunday,Yes,No,Yes,No,8.72
+Special,Pongal,Fried Rice,Parotta,549,Tuesday,Yes,Yes,No,No,10.86
+Special,Pongal,Curd Rice,Veg Fried Rice,381,Saturday,No,No,Yes,Yes,18.98
+Special,Idli,Curd Rice,Parotta,391,Saturday,No,Yes,Yes,No,15.69
+Special,Poori,Sambar Rice,Dosa,505,Friday,No,No,Yes,No,15.67
+Festival,Dosa,Tomato Rice,Chapathi,535,Sunday,Yes,Yes,No,No,9.12
+Regular,Idli,Tomato Rice,Veg Fried Rice,500,Thursday,No,Yes,Yes,Yes,21.17
+Special,Idli,Curd Rice,Idiyappam,460,Monday,Yes,No,Yes,No,11.5
+Festival,Dosa,Veg Biryani,Parotta,564,Wednesday,No,Yes,Yes,No,16.22
+Festival,Chapathi,Lemon Rice,Chapathi,650,Wednesday,Yes,No,No,No,10.05
+Special,Dosa,Curd Rice,Curd Rice,435,Monday,Yes,No,No,No,8.57
+Festival,Chapathi,Veg Biryani,Dosa,474,Wednesday,Yes,Yes,Yes,No,12.4
+Special,Appam,Fried Rice,Veg Fried Rice,396,Saturday,Yes,Yes,Yes,Yes,16.52
+Special,Dosa,Curd Rice,Idiyappam,578,Friday,Yes,Yes,Yes,No,16.07
+Festival,Appam,Meals,Chapathi,610,Sunday,Yes,Yes,Yes,No,15.36
+Special,Chapathi,Curd Rice,Veg Fried Rice,399,Wednesday,No,Yes,No,Yes,17.54
+Special,Upma,Tomato Rice,Poori,378,Saturday,No,No,Yes,Yes,18.31
+Festival,Pongal,Curd Rice,Chapathi,640,Friday,Yes,No,No,No,11.04
+Festival,Dosa,Fried Rice,Dosa,372,Sunday,Yes,Yes,No,Yes,9.96
+Special,Chapathi,Meals,Dosa,433,Saturday,No,No,No,Yes,15.08
+Regular,Idli,Tomato Rice,Dosa,439,Saturday,No,Yes,No,No,10.85
+Regular,Rava Kichadi,Tomato Rice,Dosa,440,Monday,No,Yes,Yes,Yes,18.94
+Regular,Rava Kichadi,Meals,Dosa,630,Tuesday,Yes,Yes,Yes,Yes,20.22
+Regular,Appam,Meals,Dosa,488,Saturday,No,Yes,No,No,12.42
+Regular,Dosa,Lemon Rice,Curd Rice,495,Sunday,Yes,Yes,Yes,Yes,16.54
+Festival,Dosa,Tomato Rice,Idiyappam,639,Friday,Yes,No,Yes,No,15.14
+Regular,Appam,Tomato Rice,Veg Fried Rice,591,Sunday,Yes,No,No,Yes,13.86
+Special,Dosa,Fried Rice,Dosa,623,Thursday,No,Yes,No,No,15.62
+Special,Rava Kichadi,Sambar Rice,Poori,509,Wednesday,No,Yes,Yes,Yes,22.61
+Festival,Chapathi,Curd Rice,Veg Fried Rice,625,Sunday,No,Yes,No,No,15.58
+Festival,Appam,Sambar Rice,Chapathi,569,Sunday,Yes,Yes,Yes,Yes,18.84
+Festival,Poori,Sambar Rice,Idiyappam,466,Wednesday,No,Yes,No,Yes,15.42
+Regular,Appam,Lemon Rice,Curd Rice,451,Monday,Yes,No,No,No,6.68
+Festival,Appam,Tomato Rice,Chapathi,634,Thursday,No,Yes,No,No,14.38
+Special,Dosa,Lemon Rice,Curd Rice,459,Friday,Yes,Yes,No,No,9.17
+Special,Appam,Tomato Rice,Poori,371,Saturday,Yes,Yes,Yes,No,10.93
+Regular,Idli,Meals,Parotta,538,Thursday,Yes,No,Yes,Yes,16.48
+Festival,Appam,Lemon Rice,Curd Rice,434,Monday,Yes,No,Yes,Yes,15.09
+Special,Pongal,Curd Rice,Chapathi,506,Friday,No,Yes,No,No,13.47
+Regular,Idli,Sambar Rice,Curd Rice,411,Saturday,No,No,Yes,Yes,16.64
+Festival,Dosa,Veg Biryani,Idiyappam,536,Saturday,No,No,No,Yes,14.84
+Festival,Idli,Lemon Rice,Chapathi,428,Tuesday,No,No,No,Yes,13.37
+Regular,Appam,Veg Biryani,Curd Rice,356,Wednesday,Yes,No,No,Yes,7.9
+Regular,Upma,Curd Rice,Dosa,637,Thursday,No,No,No,No,13.94
+Special,Poori,Veg Biryani,Chapathi,527,Wednesday,No,No,Yes,No,18.0
+Festival,Appam,Meals,Veg Fried Rice,438,Thursday,No,Yes,No,Yes,16.42
+Festival,Appam,Sambar Rice,Curd Rice,504,Tuesday,Yes,No,Yes,Yes,16.31
+Regular,Rava Kichadi,Tomato Rice,Parotta,536,Sunday,No,Yes,Yes,No,16.76
+Festival,Rava Kichadi,Tomato Rice,Parotta,458,Wednesday,No,No,No,No,8.84
+Regular,Upma,Meals,Curd Rice,610,Thursday,No,No,Yes,Yes,22.16
+Special,Poori,Fried Rice,Parotta,568,Thursday,No,Yes,Yes,No,18.12
+Regular,Chapathi,Curd Rice,Curd Rice,640,Monday,No,No,Yes,Yes,22.15
+Special,Poori,Sambar Rice,Veg Fried Rice,436,Thursday,No,No,No,No,12.15
+Festival,Appam,Curd Rice,Chapathi,519,Wednesday,Yes,No,Yes,No,10.89
+Festival,Appam,Fried Rice,Dosa,486,Tuesday,No,Yes,Yes,No,16.44
+Regular,Rava Kichadi,Fried Rice,Poori,504,Friday,No,No,Yes,No,13.56
+Festival,Idli,Tomato Rice,Idiyappam,415,Friday,Yes,Yes,No,Yes,13.24
+Festival,Poori,Curd Rice,Curd Rice,610,Thursday,Yes,No,Yes,Yes,16.74
+Special,Rava Kichadi,Meals,Veg Fried Rice,528,Friday,No,No,Yes,No,17.24
+Special,Appam,Lemon Rice,Curd Rice,545,Monday,No,No,No,No,11.43
+Festival,Chapathi,Fried Rice,Idiyappam,609,Saturday,Yes,Yes,Yes,Yes,18.83
+Festival,Appam,Veg Biryani,Parotta,476,Saturday,No,Yes,Yes,No,14.82
+Festival,Idli,Veg Biryani,Veg Fried Rice,526,Tuesday,Yes,No,No,No,7.82
+Special,Upma,Lemon Rice,Veg Fried Rice,476,Thursday,No,No,Yes,Yes,20.69
+Special,Pongal,Lemon Rice,Veg Fried Rice,513,Friday,Yes,Yes,No,No,11.79
+Regular,Chapathi,Lemon Rice,Chapathi,393,Thursday,Yes,No,No,No,4.44
+Special,Appam,Tomato Rice,Parotta,601,Wednesday,Yes,Yes,No,Yes,18.42
+Regular,Upma,Sambar Rice,Poori,596,Thursday,No,No,Yes,Yes,20.29
+Regular,Pongal,Tomato Rice,Chapathi,472,Monday,No,No,Yes,Yes,19.72
+Festival,Dosa,Meals,Dosa,385,Friday,No,Yes,Yes,Yes,18.97
+Special,Dosa,Sambar Rice,Veg Fried Rice,579,Friday,Yes,No,No,No,11.69
+Festival,Poori,Curd Rice,Dosa,575,Saturday,No,No,Yes,No,15.61
+Festival,Chapathi,Lemon Rice,Chapathi,428,Friday,No,Yes,No,Yes,16.35
+Regular,Poori,Sambar Rice,Parotta,595,Thursday,No,Yes,No,Yes,19.77
+Regular,Dosa,Curd Rice,Curd Rice,432,Monday,Yes,Yes,No,No,7.33
+Special,Idli,Veg Biryani,Parotta,649,Thursday,Yes,Yes,No,No,13.61
+Special,Idli,Fried Rice,Chapathi,350,Saturday,No,No,No,Yes,13.76
+Festival,Appam,Veg Biryani,Poori,447,Thursday,No,No,No,Yes,13.74
+Regular,Appam,Veg Biryani,Poori,584,Friday,Yes,No,Yes,No,14.14
+Regular,Dosa,Fried Rice,Veg Fried Rice,551,Friday,No,No,No,Yes,16.46
+Regular,Chapathi,Fried Rice,Parotta,502,Monday,No,Yes,Yes,Yes,21.99
+Special,Pongal,Lemon Rice,Dosa,504,Thursday,No,No,No,No,11.95
+Special,Pongal,Tomato Rice,Dosa,397,Friday,Yes,No,No,Yes,12.35
+Regular,Rava Kichadi,Sambar Rice,Chapathi,612,Tuesday,Yes,Yes,Yes,No,15.99
+Regular,Upma,Curd Rice,Idiyappam,454,Monday,No,Yes,Yes,No,16.41
+Festival,Rava Kichadi,Fried Rice,Dosa,472,Saturday,No,No,No,Yes,14.8
+Special,Poori,Meals,Veg Fried Rice,368,Thursday,Yes,Yes,Yes,Yes,16.89
+Festival,Idli,Lemon Rice,Chapathi,369,Wednesday,No,Yes,Yes,No,14.71
+Festival,Chapathi,Curd Rice,Curd Rice,550,Wednesday,Yes,No,No,No,7.39
+Festival,Pongal,Tomato Rice,Dosa,504,Saturday,No,Yes,No,Yes,16.13
+Regular,Pongal,Veg Biryani,Veg Fried Rice,579,Tuesday,No,No,No,No,11.73
+Festival,Upma,Veg Biryani,Veg Fried Rice,358,Saturday,Yes,No,No,No,5.42
+Special,Poori,Meals,Poori,543,Wednesday,No,Yes,Yes,Yes,25.1
+Festival,Upma,Lemon Rice,Dosa,587,Monday,Yes,Yes,No,Yes,16.67
+Festival,Poori,Veg Biryani,Curd Rice,588,Wednesday,No,Yes,No,No,12.4
+Regular,Rava Kichadi,Tomato Rice,Veg Fried Rice,386,Sunday,Yes,No,No,Yes,9.86
+Special,Appam,Tomato Rice,Chapathi,395,Saturday,Yes,No,No,Yes,10.66
+Special,Idli,Meals,Poori,598,Thursday,No,No,No,No,12.62
+Special,Chapathi,Sambar Rice,Poori,465,Saturday,Yes,No,Yes,No,12.06
+Special,Rava Kichadi,Veg Biryani,Veg Fried Rice,506,Thursday,No,No,Yes,No,15.75
+Special,Dosa,Lemon Rice,Veg Fried Rice,581,Tuesday,No,Yes,Yes,Yes,25.83
+Regular,Idli,Meals,Veg Fried Rice,493,Thursday,Yes,No,No,Yes,11.62
+Special,Rava Kichadi,Veg Biryani,Curd Rice,626,Thursday,No,No,No,Yes,20.77
+Special,Rava Kichadi,Meals,Chapathi,465,Sunday,Yes,Yes,Yes,No,14.66
+Special,Chapathi,Lemon Rice,Veg Fried Rice,403,Saturday,Yes,Yes,No,Yes,15.33
+Regular,Pongal,Fried Rice,Chapathi,474,Thursday,Yes,No,Yes,No,10.42
+Festival,Appam,Fried Rice,Dosa,410,Monday,No,No,No,Yes,11.79
+Festival,Dosa,Curd Rice,Idiyappam,425,Saturday,Yes,Yes,Yes,No,12.87
+Regular,Idli,Lemon Rice,Idiyappam,601,Tuesday,No,No,Yes,No,16.87
+Festival,Pongal,Sambar Rice,Dosa,637,Sunday,No,No,Yes,No,17.55
+Regular,Pongal,Meals,Veg Fried Rice,504,Saturday,Yes,Yes,Yes,No,13.42
+Special,Upma,Veg Biryani,Curd Rice,455,Monday,Yes,Yes,Yes,Yes,20.44
+Regular,Chapathi,Lemon Rice,Veg Fried Rice,570,Saturday,No,Yes,Yes,Yes,23.13
+Regular,Rava Kichadi,Sambar Rice,Parotta,432,Sunday,Yes,No,Yes,No,10.49
+Festival,Chapathi,Tomato Rice,Parotta,381,Wednesday,No,No,Yes,No,10.24
+Festival,Rava Kichadi,Tomato Rice,Poori,530,Saturday,Yes,No,Yes,Yes,18.07
+Regular,Dosa,Fried Rice,Poori,386,Monday,No,Yes,No,Yes,13.9
+Special,Idli,Meals,Veg Fried Rice,558,Tuesday,Yes,No,Yes,Yes,19.67
+Regular,Dosa,Sambar Rice,Dosa,468,Wednesday,No,No,No,No,10.84
+Festival,Rava Kichadi,Veg Biryani,Dosa,397,Wednesday,No,No,No,Yes,12.72
+Special,Dosa,Meals,Curd Rice,605,Friday,Yes,No,No,No,11.74
+Special,Rava Kichadi,Lemon Rice,Chapathi,445,Thursday,No,Yes,No,No,13.32
+Festival,Appam,Meals,Curd Rice,545,Saturday,No,Yes,Yes,No,17.0
+Special,Rava Kichadi,Veg Biryani,Poori,361,Friday,Yes,No,Yes,Yes,13.76
+Festival,Upma,Fried Rice,Chapathi,637,Monday,Yes,No,Yes,Yes,18.14
+Regular,Dosa,Veg Biryani,Idiyappam,470,Monday,Yes,Yes,No,Yes,12.72
+Festival,Poori,Sambar Rice,Poori,575,Saturday,No,Yes,No,No,14.62
+Regular,Appam,Sambar Rice,Curd Rice,452,Thursday,Yes,Yes,Yes,Yes,16.61
+Regular,Dosa,Lemon Rice,Dosa,447,Sunday,Yes,No,Yes,No,10.6
+Special,Rava Kichadi,Veg Biryani,Chapathi,373,Monday,No,No,No,Yes,14.25
+Festival,Idli,Sambar Rice,Poori,373,Saturday,No,No,No,Yes,13.07
+Special,Idli,Lemon Rice,Dosa,530,Thursday,Yes,No,Yes,No,14.04
+Regular,Dosa,Sambar Rice,Veg Fried Rice,401,Tuesday,No,No,No,Yes,14.07
+Special,Appam,Sambar Rice,Curd Rice,555,Tuesday,Yes,No,No,No,9.18
+Special,Pongal,Curd Rice,Parotta,561,Tuesday,No,Yes,No,No,16.37
+Regular,Upma,Curd Rice,Parotta,517,Tuesday,Yes,Yes,No,No,8.87
+Regular,Poori,Veg Biryani,Parotta,612,Thursday,No,Yes,Yes,No,18.29
+Festival,Idli,Fried Rice,Chapathi,530,Sunday,Yes,Yes,No,No,8.45
+Festival,Chapathi,Fried Rice,Parotta,555,Friday,No,Yes,Yes,No,17.3
+Special,Poori,Lemon Rice,Chapathi,482,Saturday,No,No,No,Yes,17.41
+Festival,Chapathi,Curd Rice,Poori,481,Monday,No,No,No,No,8.36
+Special,Pongal,Sambar Rice,Curd Rice,486,Thursday,No,Yes,Yes,Yes,24.09
+Special,Pongal,Fried Rice,Veg Fried Rice,428,Thursday,No,No,No,No,9.39
+Regular,Upma,Lemon Rice,Poori,401,Sunday,Yes,Yes,Yes,No,11.61
+Special,Appam,Fried Rice,Chapathi,496,Wednesday,Yes,No,No,Yes,14.9
+Special,Pongal,Sambar Rice,Parotta,604,Saturday,No,Yes,Yes,Yes,26.1
+Regular,Dosa,Tomato Rice,Idiyappam,541,Thursday,No,No,Yes,Yes,19.64
+Festival,Idli,Lemon Rice,Curd Rice,634,Wednesday,No,No,No,No,13.66
+Regular,Chapathi,Tomato Rice,Veg Fried Rice,468,Thursday,Yes,Yes,Yes,Yes,17.11
+Special,Pongal,Fried Rice,Curd Rice,533,Wednesday,Yes,Yes,Yes,Yes,21.69
+Regular,Dosa,Veg Biryani,Curd Rice,627,Friday,Yes,No,No,Yes,15.64
+Festival,Poori,Veg Biryani,Dosa,372,Tuesday,No,Yes,Yes,Yes,17.66
+Special,Rava Kichadi,Fried Rice,Curd Rice,438,Sunday,No,No,Yes,No,15.47
+Festival,Chapathi,Sambar Rice,Idiyappam,573,Wednesday,Yes,Yes,Yes,Yes,18.11
+Festival,Rava Kichadi,Veg Biryani,Veg Fried Rice,520,Monday,No,No,Yes,No,13.8
+Special,Dosa,Meals,Parotta,603,Friday,No,No,Yes,No,17.46
+Special,Idli,Lemon Rice,Idiyappam,353,Sunday,Yes,No,No,No,7.41
+Regular,Pongal,Tomato Rice,Idiyappam,417,Thursday,Yes,Yes,Yes,Yes,17.43
+Special,Chapathi,Veg Biryani,Dosa,645,Saturday,No,No,No,No,13.63
+Festival,Dosa,Tomato Rice,Dosa,592,Friday,Yes,Yes,Yes,No,14.95
+Festival,Chapathi,Lemon Rice,Veg Fried Rice,418,Friday,Yes,Yes,Yes,Yes,15.5
+Festival,Dosa,Meals,Parotta,450,Monday,Yes,No,Yes,Yes,14.97
+Special,Appam,Lemon Rice,Dosa,482,Wednesday,Yes,No,No,Yes,13.29
+Regular,Poori,Veg Biryani,Curd Rice,380,Wednesday,Yes,No,No,No,3.25
+Special,Dosa,Sambar Rice,Parotta,590,Monday,Yes,Yes,No,No,14.05
+Special,Poori,Sambar Rice,Parotta,644,Tuesday,Yes,Yes,Yes,Yes,23.21
+Festival,Upma,Sambar Rice,Parotta,434,Friday,No,No,Yes,Yes,18.25
+Special,Idli,Fried Rice,Chapathi,581,Thursday,No,No,No,No,12.13
+Regular,Idli,Meals,Curd Rice,583,Friday,No,No,Yes,Yes,20.28
+Special,Rava Kichadi,Meals,Parotta,645,Thursday,Yes,No,Yes,Yes,20.32
+Regular,Pongal,Sambar Rice,Idiyappam,590,Tuesday,No,No,Yes,Yes,22.27
+Regular,Appam,Fried Rice,Curd Rice,460,Thursday,No,Yes,No,No,11.96
+Special,Appam,Veg Biryani,Parotta,440,Tuesday,Yes,Yes,Yes,Yes,20.17
+Festival,Appam,Veg Biryani,Poori,497,Monday,No,No,Yes,Yes,19.27
+Special,Idli,Veg Biryani,Parotta,443,Friday,Yes,No,Yes,Yes,16.76
+Regular,Pongal,Lemon Rice,Dosa,537,Wednesday,No,No,No,Yes,14.53
+Festival,Dosa,Meals,Poori,476,Thursday,No,No,Yes,Yes,19.94
+Regular,Rava Kichadi,Sambar Rice,Parotta,400,Monday,Yes,Yes,No,No,8.36
+Special,Rava Kichadi,Sambar Rice,Poori,628,Thursday,Yes,No,No,Yes,15.45
+Festival,Appam,Tomato Rice,Dosa,412,Sunday,Yes,No,No,No,6.04
+Festival,Chapathi,Veg Biryani,Chapathi,385,Tuesday,No,Yes,No,Yes,13.69
+Regular,Rava Kichadi,Fried Rice,Veg Fried Rice,512,Wednesday,No,Yes,Yes,Yes,21.14
+Regular,Poori,Tomato Rice,Curd Rice,460,Thursday,No,Yes,Yes,No,15.56
+Regular,Chapathi,Tomato Rice,Poori,490,Thursday,Yes,No,Yes,No,9.93
+Regular,Idli,Lemon Rice,Curd Rice,401,Wednesday,No,Yes,Yes,No,14.09
+Regular,Rava Kichadi,Tomato Rice,Curd Rice,416,Friday,No,Yes,No,Yes,15.15
+Special,Appam,Veg Biryani,Chapathi,354,Sunday,No,Yes,No,No,11.94
+Special,Poori,Lemon Rice,Veg Fried Rice,454,Sunday,No,No,No,No,12.08
+Festival,Rava Kichadi,Lemon Rice,Poori,592,Sunday,Yes,Yes,Yes,Yes,19.59
+Festival,Dosa,Sambar Rice,Idiyappam,603,Sunday,No,No,Yes,No,17.4
+Festival,Dosa,Tomato Rice,Idiyappam,626,Thursday,Yes,No,No,Yes,15.35
+Special,Chapathi,Tomato Rice,Veg Fried Rice,446,Tuesday,Yes,No,Yes,No,10.79
+Special,Appam,Veg Biryani,Idiyappam,522,Sunday,No,No,No,No,13.53
+Special,Idli,Sambar Rice,Curd Rice,425,Monday,Yes,Yes,No,Yes,13.43
+Special,Upma,Fried Rice,Poori,407,Monday,No,No,Yes,No,14.45
+Festival,Chapathi,Curd Rice,Curd Rice,526,Monday,Yes,Yes,No,Yes,13.44
+Special,Rava Kichadi,Veg Biryani,Chapathi,554,Tuesday,Yes,No,Yes,No,14.34
+Regular,Idli,Veg Biryani,Chapathi,357,Sunday,No,Yes,No,Yes,13.08
+Regular,Appam,Fried Rice,Parotta,537,Wednesday,No,Yes,No,No,13.63
+Festival,Dosa,Veg Biryani,Poori,534,Saturday,Yes,No,No,Yes,12.73
+Special,Upma,Sambar Rice,Curd Rice,543,Friday,No,No,No,No,12.12
+Special,Pongal,Fried Rice,Dosa,520,Monday,Yes,Yes,No,Yes,15.57
+Regular,Poori,Lemon Rice,Chapathi,440,Thursday,No,Yes,Yes,No,13.91
+Regular,Pongal,Fried Rice,Parotta,613,Wednesday,Yes,No,Yes,No,13.15
+Special,Idli,Fried Rice,Dosa,536,Wednesday,No,Yes,Yes,No,17.59
+Festival,Appam,Sambar Rice,Parotta,417,Wednesday,Yes,Yes,No,No,7.1
+Special,Dosa,Meals,Idiyappam,428,Thursday,Yes,Yes,Yes,Yes,19.22
+Regular,Appam,Tomato Rice,Poori,615,Sunday,Yes,No,Yes,No,11.97
+Festival,Chapathi,Curd Rice,Dosa,445,Saturday,Yes,No,No,No,7.38
+Special,Upma,Fried Rice,Dosa,371,Monday,No,No,Yes,Yes,19.76
+Special,Pongal,Meals,Poori,439,Sunday,Yes,Yes,Yes,No,13.53
+Regular,Dosa,Meals,Idiyappam,594,Monday,No,Yes,No,No,13.41
+Regular,Dosa,Tomato Rice,Dosa,504,Friday,No,No,No,No,10.8
+Festival,Idli,Curd Rice,Chapathi,418,Wednesday,Yes,No,Yes,No,9.38
+Special,Rava Kichadi,Tomato Rice,Poori,621,Sunday,Yes,Yes,Yes,No,16.5
+Festival,Dosa,Tomato Rice,Parotta,405,Tuesday,Yes,No,Yes,Yes,14.73
+Festival,Rava Kichadi,Tomato Rice,Dosa,613,Wednesday,Yes,No,No,No,8.03
+Special,Chapathi,Tomato Rice,Chapathi,455,Sunday,No,No,Yes,No,14.87
+Special,Upma,Tomato Rice,Idiyappam,465,Thursday,Yes,No,Yes,Yes,18.01
+Festival,Idli,Lemon Rice,Poori,632,Wednesday,No,Yes,Yes,Yes,24.69
+Special,Chapathi,Sambar Rice,Veg Fried Rice,584,Wednesday,Yes,Yes,No,Yes,17.08
+Special,Idli,Meals,Curd Rice,600,Saturday,Yes,No,No,No,12.47
+Special,Upma,Lemon Rice,Chapathi,426,Wednesday,Yes,No,Yes,No,13.0
+Regular,Appam,Curd Rice,Parotta,371,Thursday,Yes,No,Yes,No,8.51
+Regular,Chapathi,Veg Biryani,Chapathi,428,Friday,No,No,No,No,10.0
+Special,Pongal,Lemon Rice,Poori,465,Thursday,Yes,No,Yes,No,13.4
+Special,Idli,Curd Rice,Curd Rice,470,Sunday,No,Yes,Yes,Yes,22.76
+Regular,Idli,Sambar Rice,Poori,414,Thursday,No,No,No,No,9.23
+Special,Poori,Curd Rice,Parotta,586,Tuesday,No,No,Yes,Yes,22.53
+Festival,Upma,Fried Rice,Veg Fried Rice,537,Monday,Yes,No,No,No,7.63
+Festival,Appam,Meals,Poori,438,Thursday,No,Yes,No,No,10.06
+Festival,Chapathi,Tomato Rice,Dosa,427,Friday,Yes,Yes,No,No,6.8
+Regular,Appam,Lemon Rice,Parotta,481,Thursday,Yes,Yes,Yes,No,12.27
+Special,Upma,Veg Biryani,Parotta,378,Monday,Yes,Yes,Yes,No,13.49
+Special,Upma,Sambar Rice,Veg Fried Rice,356,Tuesday,Yes,No,No,Yes,10.54
+Special,Upma,Curd Rice,Curd Rice,516,Wednesday,No,Yes,No,No,15.74
+Festival,Upma,Curd Rice,Dosa,389,Monday,No,No,No,Yes,12.71
+Regular,Dosa,Meals,Dosa,512,Saturday,No,Yes,No,No,11.71
+Special,Poori,Meals,Chapathi,646,Saturday,No,No,No,Yes,20.14
+Special,Rava Kichadi,Curd Rice,Poori,553,Saturday,Yes,No,No,No,9.1
+Special,Chapathi,Meals,Veg Fried Rice,612,Tuesday,Yes,No,No,Yes,17.03
+Regular,Idli,Veg Biryani,Poori,529,Friday,No,Yes,Yes,No,15.9
+Regular,Idli,Curd Rice,Dosa,422,Tuesday,No,Yes,Yes,Yes,19.91
+Regular,Rava Kichadi,Tomato Rice,Parotta,479,Sunday,No,No,Yes,No,14.97
+Special,Poori,Curd Rice,Parotta,567,Wednesday,Yes,No,Yes,Yes,20.56
+Festival,Chapathi,Fried Rice,Idiyappam,638,Wednesday,Yes,No,Yes,Yes,17.36
+Regular,Chapathi,Curd Rice,Poori,351,Friday,No,No,No,Yes,12.92
+Special,Upma,Tomato Rice,Dosa,573,Wednesday,No,No,No,No,13.03
+Festival,Chapathi,Sambar Rice,Dosa,580,Thursday,No,No,No,No,11.5
+Special,Appam,Tomato Rice,Parotta,576,Sunday,Yes,Yes,Yes,No,16.48
+Regular,Chapathi,Fried Rice,Poori,434,Thursday,Yes,No,Yes,No,9.06
+Special,Appam,Veg Biryani,Veg Fried Rice,588,Tuesday,Yes,Yes,No,No,12.0
+Regular,Idli,Lemon Rice,Dosa,556,Friday,Yes,No,No,No,7.51
+Special,Poori,Curd Rice,Poori,380,Wednesday,Yes,Yes,No,Yes,12.81
+Regular,Chapathi,Lemon Rice,Chapathi,508,Monday,Yes,No,Yes,Yes,15.44
+Special,Appam,Veg Biryani,Poori,621,Saturday,No,No,No,Yes,20.02
+Special,Pongal,Tomato Rice,Dosa,600,Wednesday,No,No,Yes,No,18.93
+Festival,Upma,Tomato Rice,Dosa,380,Thursday,No,Yes,No,No,9.07
+Festival,Idli,Veg Biryani,Curd Rice,534,Thursday,Yes,Yes,No,No,9.55
+Regular,Appam,Sambar Rice,Curd Rice,579,Tuesday,No,No,No,Yes,16.43
+Regular,Rava Kichadi,Lemon Rice,Idiyappam,375,Saturday,Yes,No,No,No,4.75
+Regular,Dosa,Curd Rice,Parotta,426,Sunday,No,Yes,Yes,No,15.25
+Special,Appam,Lemon Rice,Dosa,459,Friday,No,Yes,Yes,No,16.51
+Special,Pongal,Veg Biryani,Curd Rice,515,Tuesday,Yes,No,No,Yes,12.8
+Regular,Rava Kichadi,Lemon Rice,Parotta,632,Sunday,No,Yes,No,Yes,20.39
+Special,Chapathi,Curd Rice,Veg Fried Rice,594,Wednesday,Yes,No,Yes,Yes,18.99
+Regular,Idli,Curd Rice,Dosa,413,Monday,Yes,No,No,No,4.19
+Festival,Rava Kichadi,Curd Rice,Idiyappam,367,Sunday,Yes,Yes,Yes,Yes,14.09
+Regular,Upma,Lemon Rice,Parotta,619,Friday,No,No,No,Yes,17.25
+Special,Dosa,Sambar Rice,Parotta,456,Tuesday,No,No,No,Yes,16.31
+Special,Poori,Veg Biryani,Idiyappam,584,Monday,No,Yes,Yes,Yes,23.7
+Regular,Chapathi,Tomato Rice,Parotta,428,Wednesday,Yes,No,No,Yes,9.97
+Special,Idli,Fried Rice,Idiyappam,650,Wednesday,Yes,Yes,Yes,Yes,23.95
+Special,Poori,Tomato Rice,Poori,513,Thursday,No,Yes,Yes,Yes,22.02
+Special,Idli,Sambar Rice,Veg Fried Rice,380,Sunday,Yes,Yes,No,No,9.99
+Festival,Poori,Tomato Rice,Idiyappam,638,Sunday,Yes,Yes,No,No,10.56
