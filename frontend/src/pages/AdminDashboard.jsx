@@ -6,7 +6,7 @@ import AIInsights from "../components/AIInsights";
 import DashboardCard from "../components/DashboardCard";
 import SkeletonCard from "../components/SkeletonCard";
 import WasteChart from "../components/WasteChart";
-
+import API from "../config";
 function AdminDashboard() {
 
   const navigate = useNavigate();
@@ -16,11 +16,13 @@ function AdminDashboard() {
   const [time, setTime] = useState(new Date());
 
 useEffect(() => {
-  const timer = setTimeout(() => {
-    setDashboardLoading(false);
-  }, 1500);
+  const interval = setInterval(() => {
+    setTime(new Date());
+  }, 1000);
 
-  return () => clearTimeout(timer);
+  return () => {
+    clearInterval(interval);
+  };
 }, []);
 
   // Menu States
@@ -74,7 +76,7 @@ useEffect(() => {
     try {
 
       const res = await axios.post(
-        "http://localhost:5000/api/menu",
+        `${API}/api/menu`,
         {
           breakfast,
           lunch,
@@ -109,7 +111,7 @@ useEffect(() => {
       const today = new Date().toISOString().split("T")[0];
 
       const menuRes = await axios.get(
-        "http://localhost:5000/api/menu"
+        `${API}/api/menu`,
       );
 
       const todayMenu = menuRes.data.find(
@@ -125,7 +127,7 @@ useEffect(() => {
       }
 
       const res = await axios.post(
-        "http://localhost:5000/api/predict",
+        `${API}/api/predict`,
         {
           menu_type: "Regular",
           breakfast: todayMenu.breakfast,
@@ -146,7 +148,7 @@ useEffect(() => {
       );
 
       await axios.post(
-  "http://localhost:5000/api/prediction",
+        `${API}/api/prediction`,
         {
           date: today,
           breakfast: todayMenu.breakfast,
@@ -222,12 +224,18 @@ if (waste < 8) {
     const loadDashboard = async () => {
   try {
     const [studentRes, menuRes, historyRes] = await Promise.all([
-      axios.get("http://localhost:5000/api/dashboard/students"),
-      axios.get("http://localhost:5000/api/menu"),
-      axios.get("http://localhost:5000/api/prediction"),
+      axios.get(`${API}/api/dashboard/students`),
+      axios.get(`${API}/api/menu`),
+      axios.get(`${API}/api/prediction`),
     ]);
+     console.log("Student API:", studentRes.data);
+     console.log("Menu API:", menuRes.data);
+     console.log("Prediction API:", historyRes.data);
 
-    setStudentCount(studentRes.data.studentCount);
+    // Backend count or studentCount edhu return pannalum handle pannum
+     setStudentCount(
+    studentRes.data.studentCount ?? studentRes.data.count ?? 0
+  );
 
     const today = new Date().toISOString().split("T")[0];
 
@@ -246,11 +254,25 @@ if (waste < 8) {
     }
 
     setHistoryCount(historyRes.data.length);
-
+     if (historyRes.data.length > 0) {
+  setPrediction(historyRes.data[0].predictedWaste);
+}
   } catch (err) {
     console.log(err);
   }
 };
+     useEffect(() => {
+  loadDashboard();
+}, []);
+
+useEffect(() => {
+  const timer = setTimeout(() => {
+    setDashboardLoading(false);
+  }, 1500);
+
+  return () => clearTimeout(timer);
+}, []);
+
     return (
     <div className="min-h-screen bg-slate-950 text-white">
 
@@ -345,13 +367,13 @@ subtitle="Expected Food Waste (KG)"
           />
 
           <DashboardCard
-            title="🔮 Tomorrow Forecast"
+            title="📊 Estimated Tomorrow"
             value={
               prediction
                 ? `${(Number(prediction) * 1.04).toFixed(2)} KG`
                 : "--"
             }
-            subtitle="Expected Tomorrow"
+            subtitle="Based on today's prediction"
           />
 
           <DashboardCard

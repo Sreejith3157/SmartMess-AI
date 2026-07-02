@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import axios from "axios";
 import DashboardCard from "../components/DashboardCard";
-
+import API from "../config";
 function StudentDashboard() {
   const navigate = useNavigate();
   const [menu, setMenu] = useState(null);
@@ -13,7 +13,7 @@ useEffect(() => {
 
 const fetchMenu = async () => {
   try {
-    const res = await axios.get("http://localhost:5000/api/menu");
+    const res = await axios.get(`${API}/api/menu`);
 
     if (res.data.length > 0) {
       setMenu(res.data[0]);

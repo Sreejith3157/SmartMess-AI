@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import axios from "axios";
-
+import API from "../config";
 import {
   Chart as ChartJS,
   CategoryScale,
@@ -37,9 +37,7 @@ function WasteChart() {
 
   const fetchPredictions = async () => {
     try {
-      const res = await axios.get(
-        "http://localhost:5000/api/history"
-      );
+      const res = await axios.get(`${API}/api/prediction`);
 
       // Latest 7 predictions
       const latestHistory = res.data

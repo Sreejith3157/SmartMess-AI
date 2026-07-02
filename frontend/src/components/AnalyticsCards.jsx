@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import axios from "axios";
-
+import API from "../config";
 function AnalyticsCards() {
   const [stats, setStats] = useState({
     average: 0,
@@ -15,7 +15,7 @@ function AnalyticsCards() {
 
   const fetchStats = async () => {
     try {
-      const res = await axios.get("http://localhost:5000/api/prediction");
+      const res = await axios.get(`${API}/api/prediction`);
 
       const data = res.data;
 

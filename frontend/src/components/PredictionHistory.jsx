@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import axios from "axios";
 import exportPDF from "../utils/exportPDF";
+import API from "../config";
 function PredictionHistory() {
   const [history, setHistory] = useState([]);
   const [search, setSearch] = useState("");
@@ -11,7 +12,7 @@ function PredictionHistory() {
 
   const fetchHistory = async () => {
     try {
-      const res = await axios.get("http://localhost:5000/api/prediction");
+      const res = await axios.get(`${API}/api/prediction`);
       setHistory(res.data.reverse());
     } catch (error) {
       console.log(error);

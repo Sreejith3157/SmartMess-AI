@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import axios from "axios";
-
+import API from "../config";
 function AIInsights() {
   const [history, setHistory] = useState([]);
 
@@ -10,7 +10,7 @@ function AIInsights() {
 
   const loadHistory = async () => {
     try {
-      const res = await axios.get("http://localhost:5000/api/prediction");
+      const res = await axios.get(`${API}/api/prediction`);
       setHistory(res.data);
     } catch (err) {
       console.log(err);
